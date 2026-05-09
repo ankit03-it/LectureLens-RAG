@@ -236,6 +236,6 @@ Add screenshots here:
 
 # Author
 
-Rudeus
+Ankit Ray
 
 BTech IT Student | AI + Full Stack Development Enthusiast
