@@ -1,0 +1,292 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 0.0,
+            "end": 18.0,
+            "text": " Welcome to 100 days of code.  I want to tell you my personal story.  When I was in 2nd year of college, I knew CC++ very well.  I was coding, I knew coding, I knew HTML.  But I was not able to work in any industry."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 18.0,
+            "end": 31.560000000000002,
+            "text": " Maybe I was not able to get any project for CC++.  Now I am not saying that CC++ is a bad programming language.  I have made a lot of conditional related programs with the help of CC++.  I have done many other things.  I have made great calculators."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 31.560000000000002,
+            "end": 52.24,
+            "text": " But I was not able to work in any industry.  When I was introduced to Python, I created web scrapping,  made GUIs, made a lot of free-lancing by making a lot of applications.  And I consider Python as a language that actually tells me the use of programming.  Why do we value programming in industry?"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 52.24,
+            "end": 70.4,
+            "text": " And why does programming use so much in industry?  In today's video, I am going to show you some programs that you will enjoy watching.  You will also say that it is fun to watch these programs.  Because after watching those programs, you will actually understand the use of programming.  Why programming is used."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 70.4,
+            "end": 83.96000000000001,
+            "text": " I will tell you 5 programs today.  And you will also enjoy watching those 5 programs.  There are some amazing games out of them.  There is a 4-vice virtual assistant who walks on your nose.  He shows you the commands you say."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 83.96,
+            "end": 98.63999999999999,
+            "text": " The biggest reason for making this course of 100 days of code is that  there are many new things in Python.  There are many new approaches that I want to tell you.  And this brand new course will touch all the things.  For example, the Valrus operator has come in Python."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 98.63999999999999,
+            "end": 110.19999999999999,
+            "text": " There are many more additions.  There are many ways to do things.  So we will cover all these things in this course.  Python will teach you so well that  the way a snake runs its safety steps,"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 110.2,
+            "end": 121.04,
+            "text": " while programming you will be able to walk on its safety steps.  The way you want or do it.  So let's go to the showcase.  And I will show you my programs.  Which I made with the help of Python."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 121.04,
+            "end": 141.24,
+            "text": " Let's get started.  So the first program I want to show you is  Jarvis Virtual Assistant.  What does this program do?  Basically it takes your commands and after taking your commands"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 141.24,
+            "end": 162.12,
+            "text": " it does something.  Jarvis Open Google  Jarvis Open YouTube  As you can see that it has opened YouTube.  So in a very cool program you give it commands"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 162.12,
+            "end": 176.44,
+            "text": " and it basically finishes the task.  After that the next program I want to show you is  our Love Calculator.  A very amazing calculator which tells you how much love  is in two people."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 176.44,
+            "end": 187.76,
+            "text": " Now obviously it won't tell you  how much love is in you and your partner.  So you all know.  But in a fun way we used this random module  to make this program."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 187.76,
+            "end": 197.68,
+            "text": " In which if we add two names  it will tell you the love percentage  that how much love is in two people.  So let's try it out.  I will put Harry in the name."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 197.68,
+            "end": 203.76,
+            "text": " And I will put a pile in the partner name.  I will calculate it.  97%.  Okay.  It's great."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 203.76,
+            "end": 217.24,
+            "text": " Now if you believe me I will write here.  Let's say Sanskriti I will write here.  So write 0,3 on it and 3%  means Sanskriti should be far from girls.  I want to show you the boys named Harry."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 217.24,
+            "end": 229.67999999999998,
+            "text": " So this is a very fun calculator.  I hope you will enjoy it.  The next program I am going to show you  is the face recognition program.  Which basically uses the hard cascade algorithm."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 229.67999999999998,
+            "end": 243.35999999999999,
+            "text": " It tells you in an image where the face is.  Where is the face detection algorithm.  So here you will see in the face of Robert Downey Jr.  he will tell you where the actual face is hidden.  The picture will tell you where the face is hidden."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 243.35999999999999,
+            "end": 258.88,
+            "text": " So I will run it for 1.jpg file.  You can run it on your favorite file.  So I have run it here.  After running it, you see it has detected all the faces.  So I can run it for different images."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 258.88,
+            "end": 266.76,
+            "text": " It's not necessary that it will work for one image.  It's working for different images.  It's a very fun program.  It was made.  It was fun to make it."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 266.76,
+            "end": 283.48,
+            "text": " The next project is the flappy bird game.  Which maybe someone has played this game.  Basically it's a very good game.  We play a lot on phones.  But here you can play the fresh game made by your hands in your computer."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 283.48,
+            "end": 292.0,
+            "text": " Flappy bird.  I can play it.  Now see here I am playing it.  And it will be fun to play it.  You see here."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 292.0,
+            "end": 303.32000000000005,
+            "text": " So 5th. Last but not the least.  I have made many other projects.  But this is something I want to showcase.  How to make a snake game in python.  I will show you this game."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 303.32000000000005,
+            "end": 312.15999999999997,
+            "text": " As you can see that this is our black steak.  It's a red food.  I know this game can be better.  I can change images.  But here I made the logic."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 312.15999999999997,
+            "end": 325.2,
+            "text": " And see I am playing it.  I will basically break this 90's high score.  I can make a lot of scores.  I will tell you guys.  I am a very dangerous hardcore gamer."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 325.71999999999997,
+            "end": 332.08,
+            "text": " You can see here.  90's score is made.  I don't want to go out.  No I don't want to go out.  Yes."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 332.08,
+            "end": 339.72,
+            "text": " See I made 100's score.  I have enjoyed it.  It's fun to play a game made of your hands.  It's fun to do something else.  I just want to tell you."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 339.72,
+            "end": 352.08000000000004,
+            "text": " So in the upcoming videos.  I will tell you the things we are going to do.  And it's going to be fun.  Because we will not only make these projects.  We will make many projects."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 352.08000000000004,
+            "end": 365.68,
+            "text": " In which we will convert our ideas into reality.  Now I am going to give you all the codes.  I want you to see.  That you all run all these codes in your system.  Whether you can run it or not."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 365.68,
+            "end": 374.36,
+            "text": " That is a different thing.  But run it.  The modules I have imported.  You all install them.  Install them."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 374.36,
+            "end": 383.24,
+            "text": " If not now.  Then when we will go to modules chapter.  Install them and run them again.  If you are not able to run them.  I hope you all have to see them."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 383.24,
+            "end": 391.4,
+            "text": " And if they see it.  Then we will gradually progress in this course.  You come back to this program.  And see what was the mistake.  I got no module error."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 391.4,
+            "end": 400.24,
+            "text": " So can I fix it?  Can I run it again?  It's not like you have to do everything in this video.  I hope you all will enjoy this.  In taking these 500 programs."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 400.24,
+            "end": 407.0,
+            "text": " You all have to keep them with you.  And as we will keep on learning.  Things will keep on moving forward.  Python programming.  We will keep on learning."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 407.0,
+            "end": 420.64,
+            "text": " You all will do it more easily and better.  I am giving you all these programs.  The 500 programs that I have shown you.  They are present here.  You can run them on your machine."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 420.64,
+            "end": 431.68,
+            "text": " And you all will enjoy it.  If you are using Windows API.  Then you will run them in Windows.  Like the Java Virtual Assistant.  You can do it in Mac or Linux."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 431.68,
+            "end": 445.08,
+            "text": " But we will do this only when we will move forward.  You all will enjoy this.  But don't try to recreate it.  Just think that I have learned so much.  I will make it from scratch."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 445.08,
+            "end": 452.12,
+            "text": " I will change it.  If you will do it.  You will be a little frustrated.  Because you don't know what you are doing.  You will try to do it."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 452.2,
+            "end": 463.68,
+            "text": " That's not a good idea.  We will make all these things.  I will show you dangerous programs.  Give me some time.  Keep this 100 days of code journey."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 463.68,
+            "end": 478.36,
+            "text": " You will also enjoy it.  The link to this rappel is in the description.  I would like to tell you one more thing.  If you haven't accessed the Python 100 days of code playlist.  Then you can access it right now."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 478.36,
+            "end": 490.04,
+            "text": " Because all the videos will be in this playlist.  If you don't open this playlist and save it.  Then you may miss it.  I don't want to miss any day.  Open this playlist."
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python  Python Tutorial - Day #2.mp4",
+            "start": 490.04,
+            "end": 498.92,
+            "text": " We will do a lot of things in the coming days.  It will be fun.  Till then, take care of yourself.  And I will see you next time."
+        }
+    ],
+    "text": " Welcome to 100 days of code. I want to tell you my personal story. When I was in 2nd year of college, I knew CC++ very well. I was coding, I knew coding, I knew HTML. But I was not able to work in any industry. Maybe I was not able to get any project for CC++. Now I am not saying that CC++ is a bad programming language. I have made a lot of conditional related programs with the help of CC++. I have done many other things. I have made great calculators. But I was not able to work in any industry. When I was introduced to Python, I created web scrapping, made GUIs, made a lot of free-lancing by making a lot of applications. And I consider Python as a language that actually tells me the use of programming. Why do we value programming in industry? And why does programming use so much in industry? In today's video, I am going to show you some programs that you will enjoy watching. You will also say that it is fun to watch these programs. Because after watching those programs, you will actually understand the use of programming. Why programming is used. I will tell you 5 programs today. And you will also enjoy watching those 5 programs. There are some amazing games out of them. There is a 4-vice virtual assistant who walks on your nose. He shows you the commands you say. The biggest reason for making this course of 100 days of code is that there are many new things in Python. There are many new approaches that I want to tell you. And this brand new course will touch all the things. For example, the Valrus operator has come in Python. There are many more additions. There are many ways to do things. So we will cover all these things in this course. Python will teach you so well that the way a snake runs its safety steps, while programming you will be able to walk on its safety steps. The way you want or do it. So let's go to the showcase. And I will show you my programs. Which I made with the help of Python. Let's get started. So the first program I want to show you is Jarvis Virtual Assistant. What does this program do? Basically it takes your commands and after taking your commands it does something. Jarvis Open Google Jarvis Open YouTube As you can see that it has opened YouTube. So in a very cool program you give it commands and it basically finishes the task. After that the next program I want to show you is our Love Calculator. A very amazing calculator which tells you how much love is in two people. Now obviously it won't tell you how much love is in you and your partner. So you all know. But in a fun way we used this random module to make this program. In which if we add two names it will tell you the love percentage that how much love is in two people. So let's try it out. I will put Harry in the name. And I will put a pile in the partner name. I will calculate it. 97%. Okay. It's great. Now if you believe me I will write here. Let's say Sanskriti I will write here. So write 0,3 on it and 3% means Sanskriti should be far from girls. I want to show you the boys named Harry. So this is a very fun calculator. I hope you will enjoy it. The next program I am going to show you is the face recognition program. Which basically uses the hard cascade algorithm. It tells you in an image where the face is. Where is the face detection algorithm. So here you will see in the face of Robert Downey Jr. he will tell you where the actual face is hidden. The picture will tell you where the face is hidden. So I will run it for 1.jpg file. You can run it on your favorite file. So I have run it here. After running it, you see it has detected all the faces. So I can run it for different images. It's not necessary that it will work for one image. It's working for different images. It's a very fun program. It was made. It was fun to make it. The next project is the flappy bird game. Which maybe someone has played this game. Basically it's a very good game. We play a lot on phones. But here you can play the fresh game made by your hands in your computer. Flappy bird. I can play it. Now see here I am playing it. And it will be fun to play it. You see here. So 5th. Last but not the least. I have made many other projects. But this is something I want to showcase. How to make a snake game in python. I will show you this game. As you can see that this is our black steak. It's a red food. I know this game can be better. I can change images. But here I made the logic. And see I am playing it. I will basically break this 90's high score. I can make a lot of scores. I will tell you guys. I am a very dangerous hardcore gamer. You can see here. 90's score is made. I don't want to go out. No I don't want to go out. Yes. See I made 100's score. I have enjoyed it. It's fun to play a game made of your hands. It's fun to do something else. I just want to tell you. So in the upcoming videos. I will tell you the things we are going to do. And it's going to be fun. Because we will not only make these projects. We will make many projects. In which we will convert our ideas into reality. Now I am going to give you all the codes. I want you to see. That you all run all these codes in your system. Whether you can run it or not. That is a different thing. But run it. The modules I have imported. You all install them. Install them. If not now. Then when we will go to modules chapter. Install them and run them again. If you are not able to run them. I hope you all have to see them. And if they see it. Then we will gradually progress in this course. You come back to this program. And see what was the mistake. I got no module error. So can I fix it? Can I run it again? It's not like you have to do everything in this video. I hope you all will enjoy this. In taking these 500 programs. You all have to keep them with you. And as we will keep on learning. Things will keep on moving forward. Python programming. We will keep on learning. You all will do it more easily and better. I am giving you all these programs. The 500 programs that I have shown you. They are present here. You can run them on your machine. And you all will enjoy it. If you are using Windows API. Then you will run them in Windows. Like the Java Virtual Assistant. You can do it in Mac or Linux. But we will do this only when we will move forward. You all will enjoy this. But don't try to recreate it. Just think that I have learned so much. I will make it from scratch. I will change it. If you will do it. You will be a little frustrated. Because you don't know what you are doing. You will try to do it. That's not a good idea. We will make all these things. I will show you dangerous programs. Give me some time. Keep this 100 days of code journey. You will also enjoy it. The link to this rappel is in the description. I would like to tell you one more thing. If you haven't accessed the Python 100 days of code playlist. Then you can access it right now. Because all the videos will be in this playlist. If you don't open this playlist and save it. Then you may miss it. I don't want to miss any day. Open this playlist. We will do a lot of things in the coming days. It will be fun. Till then, take care of yourself. And I will see you next time."
+}

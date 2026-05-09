@@ -1,0 +1,250 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 0.0,
+            "end": 14.040000000000001,
+            "text": " Today you will know how much you will get in this video of 100 days of code case  And you will have to solve this exercise today  And after that you will have to give me the solution  Who will do it?  At least solve it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 14.040000000000001,
+            "end": 37.16,
+            "text": " Let's go to the computer screen and I will tell you what is the question you have to solve  Music  So guys, I want to tell you about operators and why operators are important  And after that I will give you an exercise  So operators are simple things, we have studied in mathematics"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 37.16,
+            "end": 51.64,
+            "text": " If you are in class 5, then you should also know what is an operator  If you are watching this video on the 4th class, then listen  Addition is 15 plus 7  Add the numbers  You have taken 15 rupees, you have taken 7 rupees, how much money will you take to store?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 51.64,
+            "end": 63.48,
+            "text": " 21 rupees, no, wrong answer, 22 rupees  Okay, listen carefully  15 plus 7 is 22  Similarly, 15 minus 7 is 9, wrong answer, 8 is ok  So keep in mind"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 63.48,
+            "end": 74.52,
+            "text": " If I say 9, then your mind should be completely closed  How did this person say 15 minus 7 is 9?  So 15 minus 7 is what?  Means you are saying what is it studying?  It is 8"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 74.83999999999999,
+            "end": 89.0,
+            "text": " But I am just trying to tell you that in Python, all the operators are multiplication  You know  If I write here print 5 plus 6  Then you will say that what is the situation here  I will close this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 89.0,
+            "end": 101.16,
+            "text": " You will say what is the situation here  5 plus 6 is 11, we know that  But what if I tell you that I will give you 15 so that I can do minus  You have also been psyched  Okay"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 101.16,
+            "end": 114.92,
+            "text": " And I will start and then divide  So all these results will be printed on the screen  6 is 5, 11, 6 is 9  And then how much is your 15 multiply by 6?  You have 90, then how much is 15 divided by 6?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 114.92,
+            "end": 128.36,
+            "text": " 2.5 is ok  So this is what you know well  I will tell you  But a new operator that can be new for some people  That is the Floor Division Operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 128.36,
+            "end": 139.72,
+            "text": " If I want to take 2 out of 2.5  Then I will use Floor Division Operator  Okay  Another operator is a modular operator  And what does modular operator do?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 139.72,
+            "end": 151.32000000000002,
+            "text": " It does simple work  If I write 15 percent 6  Then it will be simple  If I divide 15 by 6  I give you a very simple example"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 151.32000000000002,
+            "end": 164.44,
+            "text": " I divide 5 percent 3  If I divide by 3, then it will be 2 remainder  Simple thing is that it does not give remainder  If I divide 5 by 3, then it will be 2 remainder  15 divided by 6"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 164.44,
+            "end": 175.64,
+            "text": " 15 divided by 6 is 2.5  But after putting it on 2, it will be finished  And only 2 will be left  15 divided by 6 is 2.5  15 multiplied by 6 is 90"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 175.64,
+            "end": 184.84,
+            "text": " So these are all operators  Jockey, addition, subtraction, multiplication  Now I have shown you the wrong exponential operator  It is a division  I will correct it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 184.84,
+            "end": 193.0,
+            "text": " It is a division operator  And I will tell you the exponential operator  What is it?  Print 5  I will start 3"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 193.0,
+            "end": 203.0,
+            "text": " I will print it  It becomes 5 to the power 3  I will fix it and come back  How did I write this in exponential?  Some of you are saying that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 203.0,
+            "end": 213.0,
+            "text": " You made a mistake by making it a wrap  You are mistaken  Now I have written the exponential  And I have told you all the options  Try out"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 213.0,
+            "end": 223.0,
+            "text": " 5 star star 3 means 5 multiplied  5 multiplied by 5  If I start from 5 star 4, it will be 5 multiplied  5 multiplied by 5  If I multiply it 4 times, it will be 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 223.0,
+            "end": 233.0,
+            "text": " It is a simple thing  If I start from 2 star 4, it will be 2 multiplied  2 multiplied by 2  4 multiplied by 2  It will be 16"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 233.0,
+            "end": 243.0,
+            "text": " I will tell you the number of exercises  I have given you  Before that  I want to show you a simple thing  If you don't want to solve this problem"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 243.0,
+            "end": 253.0,
+            "text": " If you don't want to solve this problem  If you don't want to solve this problem  I will not run this  I will tell you the explanation  This is written for you"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 253.0,
+            "end": 263.0,
+            "text": " You will see this only when you can't solve the problem  I know that you can solve this problem  It is a simple exercise  You will go to the next page  You will see the exercise here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 263.0,
+            "end": 273.0,
+            "text": " Creator calculator  You have to make a calculator  Which is capable of  Performing, addition, subtraction, multiplication  Division operations on 2 numbers"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 273.0,
+            "end": 283.0,
+            "text": " You can do all these operations  Make a variable of 2 numbers  I won't give you more hints  It is very simple  I will give you more hints"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 283.0,
+            "end": 293.0,
+            "text": " Because I already have comments  That what is the point of this simple exercise  What is the point  The point is that many people are starting from programming  So give them confidence"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 293.0,
+            "end": 303.0,
+            "text": " And give them the curiosity  of programming  to wake them up  I hope you will enjoy  I want to tell you one thing"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 303.0,
+            "end": 313.0,
+            "text": " In the next video  I am announcing that  This is video number 7  On day 8  We will solve this question"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 313.0,
+            "end": 323.0,
+            "text": " And I will shout out to those  who will solve this  You have to do it  I will tell you this  You simply have to go to the cover page"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 323.0,
+            "end": 333.0,
+            "text": " You will see this kind of a rappel  What you have to do here  Is to make your own rappel  You have made your own rappel  It is a very simple rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 333.0,
+            "end": 343.0,
+            "text": " In which this calculator will be made  Make sure that it runs from the run button  You have made your own rappel by selecting python  And after that  You can comment on the rappel link"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 343.0,
+            "end": 353.0,
+            "text": " This is the comment section of this rappel  In the comment section of day 7  You should be rappel  And you should tell me in the comment section of rappel  Because it will be that I will open the looker directly"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 353.0,
+            "end": 363.0,
+            "text": " From here  And I will be able to access your rappel  I will shout out to those who will solve this quickly  But don't do it wrong  If you start out"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 363.0,
+            "end": 373.0,
+            "text": " Take time  It is just about  I just want you to do it  You do it, it is very important  You don't have to do it first"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 373.0,
+            "end": 383.0,
+            "text": " Believe me, you don't have to  You have to do it yourself  You have to win  You have to move ahead  I will end this video with this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 383.0,
+            "end": 391.0,
+            "text": " If you haven't accessed the playlist  Click here and watch this video  Thank you so much for watching this video  And I will see you next time"
+        }
+    ],
+    "text": " Today you will know how much you will get in this video of 100 days of code case And you will have to solve this exercise today And after that you will have to give me the solution Who will do it? At least solve it Let's go to the computer screen and I will tell you what is the question you have to solve Music So guys, I want to tell you about operators and why operators are important And after that I will give you an exercise So operators are simple things, we have studied in mathematics If you are in class 5, then you should also know what is an operator If you are watching this video on the 4th class, then listen Addition is 15 plus 7 Add the numbers You have taken 15 rupees, you have taken 7 rupees, how much money will you take to store? 21 rupees, no, wrong answer, 22 rupees Okay, listen carefully 15 plus 7 is 22 Similarly, 15 minus 7 is 9, wrong answer, 8 is ok So keep in mind If I say 9, then your mind should be completely closed How did this person say 15 minus 7 is 9? So 15 minus 7 is what? Means you are saying what is it studying? It is 8 But I am just trying to tell you that in Python, all the operators are multiplication You know If I write here print 5 plus 6 Then you will say that what is the situation here I will close this You will say what is the situation here 5 plus 6 is 11, we know that But what if I tell you that I will give you 15 so that I can do minus You have also been psyched Okay And I will start and then divide So all these results will be printed on the screen 6 is 5, 11, 6 is 9 And then how much is your 15 multiply by 6? You have 90, then how much is 15 divided by 6? 2.5 is ok So this is what you know well I will tell you But a new operator that can be new for some people That is the Floor Division Operator If I want to take 2 out of 2.5 Then I will use Floor Division Operator Okay Another operator is a modular operator And what does modular operator do? It does simple work If I write 15 percent 6 Then it will be simple If I divide 15 by 6 I give you a very simple example I divide 5 percent 3 If I divide by 3, then it will be 2 remainder Simple thing is that it does not give remainder If I divide 5 by 3, then it will be 2 remainder 15 divided by 6 15 divided by 6 is 2.5 But after putting it on 2, it will be finished And only 2 will be left 15 divided by 6 is 2.5 15 multiplied by 6 is 90 So these are all operators Jockey, addition, subtraction, multiplication Now I have shown you the wrong exponential operator It is a division I will correct it It is a division operator And I will tell you the exponential operator What is it? Print 5 I will start 3 I will print it It becomes 5 to the power 3 I will fix it and come back How did I write this in exponential? Some of you are saying that You made a mistake by making it a wrap You are mistaken Now I have written the exponential And I have told you all the options Try out 5 star star 3 means 5 multiplied 5 multiplied by 5 If I start from 5 star 4, it will be 5 multiplied 5 multiplied by 5 If I multiply it 4 times, it will be 5 It is a simple thing If I start from 2 star 4, it will be 2 multiplied 2 multiplied by 2 4 multiplied by 2 It will be 16 I will tell you the number of exercises I have given you Before that I want to show you a simple thing If you don't want to solve this problem If you don't want to solve this problem If you don't want to solve this problem I will not run this I will tell you the explanation This is written for you You will see this only when you can't solve the problem I know that you can solve this problem It is a simple exercise You will go to the next page You will see the exercise here Creator calculator You have to make a calculator Which is capable of Performing, addition, subtraction, multiplication Division operations on 2 numbers You can do all these operations Make a variable of 2 numbers I won't give you more hints It is very simple I will give you more hints Because I already have comments That what is the point of this simple exercise What is the point The point is that many people are starting from programming So give them confidence And give them the curiosity of programming to wake them up I hope you will enjoy I want to tell you one thing In the next video I am announcing that This is video number 7 On day 8 We will solve this question And I will shout out to those who will solve this You have to do it I will tell you this You simply have to go to the cover page You will see this kind of a rappel What you have to do here Is to make your own rappel You have made your own rappel It is a very simple rappel In which this calculator will be made Make sure that it runs from the run button You have made your own rappel by selecting python And after that You can comment on the rappel link This is the comment section of this rappel In the comment section of day 7 You should be rappel And you should tell me in the comment section of rappel Because it will be that I will open the looker directly From here And I will be able to access your rappel I will shout out to those who will solve this quickly But don't do it wrong If you start out Take time It is just about I just want you to do it You do it, it is very important You don't have to do it first Believe me, you don't have to You have to do it yourself You have to win You have to move ahead I will end this video with this If you haven't accessed the playlist Click here and watch this video Thank you so much for watching this video And I will see you next time"
+}

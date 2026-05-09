@@ -1,0 +1,1412 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " Guys, welcome to 100 days of code again."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 3.2800000000000002,
+            "end": 9.44,
+            "text": " In today's video, we will write our first Python program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 9.44,
+            "end": 11.56,
+            "text": " Because this is going to be a Python program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 11.56,
+            "end": 13.72,
+            "text": " In which we will write each line."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 13.72,
+            "end": 17.12,
+            "text": " We will have complete understanding of what is happening in our Python program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 17.12,
+            "end": 19.68,
+            "text": " And we are going to write it from scratch."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 19.68,
+            "end": 23.8,
+            "text": " In our upcoming videos, we will write very dangerous Python programs from scratch."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 23.8,
+            "end": 25.6,
+            "text": " But this is going to be our first program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 25.6,
+            "end": 28.2,
+            "text": " Let's go to the computer screen and let's get started."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 30.0,
+            "end": 37.64,
+            "text": " Music"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 37.64,
+            "end": 40.24,
+            "text": " So I have come to my day 4 in the Apple."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 40.24,
+            "end": 42.64,
+            "text": " And today I am going to write my first program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 42.64,
+            "end": 45.92,
+            "text": " Now, we had written our first program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 45.92,
+            "end": 47.72,
+            "text": " In fact, we have not written many programs."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 47.72,
+            "end": 49.36,
+            "text": " But this is going to be the program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 49.36,
+            "end": 52.04,
+            "text": " Which is going to be character by character word by word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 52.04,
+            "end": 53.64,
+            "text": " I am going to write from scratch."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 53.64,
+            "end": 55.08,
+            "text": " So, its feeling is different."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 55.08,
+            "end": 57.879999999999995,
+            "text": " So, what you guys should do first is to write print."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 57.88,
+            "end": 59.88,
+            "text": " Now, what is in print Python programming?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 59.88,
+            "end": 61.040000000000006,
+            "text": " I will tell you."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 61.040000000000006,
+            "end": 62.52,
+            "text": " Print is a function."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 62.52,
+            "end": 63.56,
+            "text": " What is function?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 63.56,
+            "end": 66.84,
+            "text": " Basically, you use it to perform some tasks."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 66.84,
+            "end": 69.84,
+            "text": " Print is a function to invoke any function."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 69.84,
+            "end": 71.36,
+            "text": " We use it like this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 71.36,
+            "end": 73.72,
+            "text": " This is our parenthesis."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 73.72,
+            "end": 78.04,
+            "text": " As you can see, after writing PRI NT,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 78.04,
+            "end": 80.24000000000001,
+            "text": " I have opened a parenthesis here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 80.24000000000001,
+            "end": 82.32000000000001,
+            "text": " And then I can close it like this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 82.32000000000001,
+            "end": 85.24000000000001,
+            "text": " And whatever I write in it, I will get printed."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 85.24000000000001,
+            "end": 86.88,
+            "text": " I know I write 7 here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 86.92,
+            "end": 88.6,
+            "text": " So, you will get 7 print over here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 88.6,
+            "end": 90.28,
+            "text": " But we know what we will do?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 90.28,
+            "end": 91.64,
+            "text": " We will write Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 91.64,
+            "end": 93.52,
+            "text": " And you must have heard of Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 93.52,
+            "end": 94.8,
+            "text": " Python programming."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 94.8,
+            "end": 98.19999999999999,
+            "text": " In any programming language, when any code is written,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 98.19999999999999,
+            "end": 101.8,
+            "text": " the first program is written as Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 101.8,
+            "end": 103.03999999999999,
+            "text": " Now, you guys see here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 103.03999999999999,
+            "end": 104.52,
+            "text": " As soon as I wrote print Hello word,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 104.52,
+            "end": 106.03999999999999,
+            "text": " a red line came up here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 106.03999999999999,
+            "end": 107.56,
+            "text": " What is this? Invalid syntax."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 107.56,
+            "end": 109.19999999999999,
+            "text": " Let's run it and see."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 109.19999999999999,
+            "end": 110.0,
+            "text": " What is this?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 110.0,
+            "end": 111.03999999999999,
+            "text": " With the initial error?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 111.03999999999999,
+            "end": 113.03999999999999,
+            "text": " Yes, do it with the initial error."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 113.03999999999999,
+            "end": 115.03999999999999,
+            "text": " When you will learn it, you will learn it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 115.04,
+            "end": 117.48,
+            "text": " So, here you guys see, I wrote print Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 117.48,
+            "end": 119.0,
+            "text": " I got an error."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 119.0,
+            "end": 120.48,
+            "text": " I know why the error came."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 120.48,
+            "end": 122.96000000000001,
+            "text": " When you use print in Python,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 122.96000000000001,
+            "end": 126.52000000000001,
+            "text": " you have to give it a valid object."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 126.52000000000001,
+            "end": 129.12,
+            "text": " Hello word is not a valid object in Python's eyes."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 129.12,
+            "end": 130.68,
+            "text": " Python says that it is a Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 130.68,
+            "end": 132.04000000000002,
+            "text": " I don't know at all."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 132.04000000000002,
+            "end": 135.6,
+            "text": " Yes, but if you guys close it in a double code,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 135.6,
+            "end": 138.88,
+            "text": " Python programming knows that you are talking about a string."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 138.88,
+            "end": 140.0,
+            "text": " Hello word is a string."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 140.0,
+            "end": 141.16,
+            "text": " And we run it and see."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 141.16,
+            "end": 143.44,
+            "text": " And our first program is written."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 143.44,
+            "end": 145.56,
+            "text": " Hello word is getting to see us here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 145.56,
+            "end": 146.6,
+            "text": " You guys see the output."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 146.6,
+            "end": 148.16,
+            "text": " Hello word is getting to see us."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 148.16,
+            "end": 149.04,
+            "text": " Play the strings."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 149.04,
+            "end": 150.04,
+            "text": " Write congratulations."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 150.04,
+            "end": 150.92,
+            "text": " Write it for yourself."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 150.92,
+            "end": 152.76,
+            "text": " For me, this is the first program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 152.76,
+            "end": 155.84,
+            "text": " The character we have assembled and written."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 155.84,
+            "end": 156.84,
+            "text": " Very good."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 156.84,
+            "end": 158.35999999999999,
+            "text": " So far so good."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 158.35999999999999,
+            "end": 160.32,
+            "text": " If I write PRINT here,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 160.32,
+            "end": 161.36,
+            "text": " and then I write,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 161.36,
+            "end": 162.76,
+            "text": " I run it after 5 years."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 162.76,
+            "end": 163.72,
+            "text": " So first,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 163.72,
+            "end": 165.4,
+            "text": " write Hello word and then I will get it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 165.4,
+            "end": 167.48,
+            "text": " Then write 5."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 167.48,
+            "end": 169.16,
+            "text": " We ran Python in the terminal."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 169.16,
+            "end": 173.4,
+            "text": " We saw that when I write Python 3 in the terminal,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 173.84,
+            "end": 177.08,
+            "text": " and then I write PRINT Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 177.08,
+            "end": 180.24,
+            "text": " So I am getting everything manually type line by line."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 180.24,
+            "end": 183.28,
+            "text": " I have to do everything manually."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 183.28,
+            "end": 186.48000000000002,
+            "text": " You see, I typed Hello word first."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 186.48000000000002,
+            "end": 189.84,
+            "text": " After that, I typed PRINT 5 here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 189.84,
+            "end": 191.4,
+            "text": " So what am I going to type in one?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 191.4,
+            "end": 192.4,
+            "text": " Things."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 192.4,
+            "end": 194.76,
+            "text": " No, I don't need to type in one."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 194.76,
+            "end": 196.12,
+            "text": " I can make a script."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 196.12,
+            "end": 197.32,
+            "text": " That's why I made this script."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 197.32,
+            "end": 198.68,
+            "text": " Its name is main.py."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 198.68,
+            "end": 202.04000000000002,
+            "text": " Script means that line by line execution will be our code."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 202.04,
+            "end": 203.48,
+            "text": " If I write Hello word first,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 203.48,
+            "end": 204.84,
+            "text": " then I will get it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 204.84,
+            "end": 207.6,
+            "text": " After that, PRINT 5 will be executed."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 207.6,
+            "end": 209.6,
+            "text": " And as I believe,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 209.6,
+            "end": 211.79999999999998,
+            "text": " PRINT by"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 212.64,
+            "end": 214.6,
+            "text": " I will write like this and then I will run it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 214.6,
+            "end": 215.68,
+            "text": " So first, Hello word,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 215.68,
+            "end": 217.64,
+            "text": " then 5, then bye."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 217.64,
+            "end": 220.28,
+            "text": " Because the script is executing line by line."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 220.28,
+            "end": 223.76,
+            "text": " Now, we don't have to go into the implementation of PRINT."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 223.76,
+            "end": 227.39999999999998,
+            "text": " If you want to know what other uses of PRINT are there,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 227.39999999999998,
+            "end": 229.6,
+            "text": " then you see, it is telling here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 229.64,
+            "end": 231.56,
+            "text": " As soon as I took my mouse here,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 231.56,
+            "end": 233.51999999999998,
+            "text": " it will be telling me to give values here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 233.51999999999998,
+            "end": 234.51999999999998,
+            "text": " It will be object."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 234.51999999999998,
+            "end": 236.48,
+            "text": " You can also give multiple values by using comma."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 236.48,
+            "end": 237.6,
+            "text": " Like this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 237.6,
+            "end": 239.32,
+            "text": " Like, Hello word comma 7 is done."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 239.32,
+            "end": 240.24,
+            "text": " So you see, Hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 240.24,
+            "end": 242.07999999999998,
+            "text": " And after that, after space, 7 is come."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 242.07999999999998,
+            "end": 244.16,
+            "text": " Then the next statement is executed."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 244.16,
+            "end": 245.6,
+            "text": " Then the next execute."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 245.6,
+            "end": 248.64,
+            "text": " And line by line, our script will be executed."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 248.64,
+            "end": 252.2,
+            "text": " Can we print only Python programming language?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 252.2,
+            "end": 254.16,
+            "text": " No, we can't print."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 254.16,
+            "end": 255.51999999999998,
+            "text": " We can do a lot of things."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 255.51999999999998,
+            "end": 257.76,
+            "text": " And this is the feature of this course."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 257.76,
+            "end": 259.96,
+            "text": " This is going to tell you what we will do."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 259.96,
+            "end": 262.71999999999997,
+            "text": " But we are starting our first Python program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 262.71999999999997,
+            "end": 265.0,
+            "text": " We are understanding things, what is script."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 265.0,
+            "end": 268.71999999999997,
+            "text": " And when we execute a command here,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 268.71999999999997,
+            "end": 271.24,
+            "text": " line by line, give Python interpreter."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 271.24,
+            "end": 272.96,
+            "text": " Anything in Rappel."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 272.96,
+            "end": 274.0,
+            "text": " It is called Rappel."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 274.0,
+            "end": 276.03999999999996,
+            "text": " When we write Python 3 here,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 276.03999999999996,
+            "end": 277.68,
+            "text": " Python 3 is called Rappel."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 277.68,
+            "end": 279.8,
+            "text": " This is a re-evaluate print loop."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 279.8,
+            "end": 281.8,
+            "text": " I will give it 8 plus 9."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 281.8,
+            "end": 283.4,
+            "text": " So it will be 17."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 283.4,
+            "end": 286.0,
+            "text": " But after that, I will have to write something else again."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 286.0,
+            "end": 287.12,
+            "text": " I will get its output."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 287.2,
+            "end": 288.8,
+            "text": " Ideally, we don't want to do this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 288.8,
+            "end": 294.0,
+            "text": " Ideally, we want to process sequence of instructions from Python."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 294.0,
+            "end": 295.44,
+            "text": " We want to say to Python,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 295.44,
+            "end": 297.0,
+            "text": " do this work."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 297.0,
+            "end": 300.24,
+            "text": " Execute this first, then execute this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 300.24,
+            "end": 301.24,
+            "text": " Then do this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 301.24,
+            "end": 305.4,
+            "text": " And assume that I bought 10 kg of rice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 305.4,
+            "end": 306.84000000000003,
+            "text": " And I bought 5 kg."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 306.84000000000003,
+            "end": 310.2,
+            "text": " Or assume that I bought 17 kg of rice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 310.2,
+            "end": 311.88,
+            "text": " And I bought 13 kg."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 311.88,
+            "end": 312.68,
+            "text": " So I will say,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 312.84000000000003,
+            "end": 314.68,
+            "text": " Python was 17 kg of rice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 314.68,
+            "end": 317.68,
+            "text": " And I bought 13 kg of rice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 317.68,
+            "end": 318.68,
+            "text": " So how much is it?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 318.68,
+            "end": 319.68,
+            "text": " So Python will tell you."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 319.68,
+            "end": 322.68,
+            "text": " You can do some computations in the print."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 322.68,
+            "end": 324.68,
+            "text": " For multiplication, you will have to put stars."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 324.68,
+            "end": 325.68,
+            "text": " Don't put x."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 325.68,
+            "end": 328.68,
+            "text": " You will have to put stars for divide."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 328.68,
+            "end": 329.68,
+            "text": " This is the same."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 329.68,
+            "end": 331.68,
+            "text": " And then plus and minus."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 331.68,
+            "end": 332.68,
+            "text": " These are simple things."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 332.68,
+            "end": 333.68,
+            "text": " So try this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 333.68,
+            "end": 336.68,
+            "text": " But here, they are made in Rs. 221."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 336.68,
+            "end": 338.68,
+            "text": " Which I bought the vegetables."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 338.68,
+            "end": 340.68,
+            "text": " So Python is a very simple thing."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 341.68,
+            "end": 344.68,
+            "text": " So Python also gives you computation."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 344.68,
+            "end": 346.68,
+            "text": " In the upcoming videos, we will learn more things."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 346.68,
+            "end": 348.68,
+            "text": " Stay tuned in this course."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 348.68,
+            "end": 349.68,
+            "text": " I want to tell you that"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 349.68,
+            "end": 351.68,
+            "text": " who doesn't have this course."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 351.68,
+            "end": 353.68,
+            "text": " If you can't stay consistent daily"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 353.68,
+            "end": 356.68,
+            "text": " or if you want to do things in short cut,"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 356.68,
+            "end": 357.68,
+            "text": " this course is not for you."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 357.68,
+            "end": 360.68,
+            "text": " Because this course asks for consistency."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 360.68,
+            "end": 362.68,
+            "text": " It demands that you practice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 362.68,
+            "end": 363.68,
+            "text": " As you are watching the videos."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 363.68,
+            "end": 365.68,
+            "text": " And you take your time."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 365.68,
+            "end": 368.68,
+            "text": " Come out the day and complete the 100 days of code challenge."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 368.68,
+            "end": 370.68,
+            "text": " You have to go all day to 100 days."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 370.68,
+            "end": 372.68,
+            "text": " You give your attendance in the comments."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 372.68,
+            "end": 373.68,
+            "text": " I am present."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 373.68,
+            "end": 374.68,
+            "text": " I will see one comment."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 374.68,
+            "end": 376.68,
+            "text": " If you want to learn in a short time."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 376.68,
+            "end": 378.68,
+            "text": " And learn very quickly."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 378.68,
+            "end": 379.68,
+            "text": " If you want to learn without practicing."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 379.68,
+            "end": 380.68,
+            "text": " This course is not for you."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 380.68,
+            "end": 382.68,
+            "text": " Because it demands practice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 382.68,
+            "end": 384.68,
+            "text": " Success doesn't have any elevator."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 384.68,
+            "end": 387.68,
+            "text": " You will have to take stairs for success."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 387.68,
+            "end": 388.68,
+            "text": " And these are stairs."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 388.68,
+            "end": 391.68,
+            "text": " And you have to climb the stairs for 100 days with me."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 391.68,
+            "end": 394.68,
+            "text": " And trust me, it will be worth it at the end."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 394.68,
+            "end": 397.68,
+            "text": " I will tell you those things from my years of experience."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 397.68,
+            "end": 400.68,
+            "text": " Which took me a lot of time to learn."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 400.68,
+            "end": 401.68,
+            "text": " And from the upcoming videos."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 401.68,
+            "end": 403.68,
+            "text": " We will actually do coding."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 403.68,
+            "end": 406.68,
+            "text": " We will write a lot of codes over the next few videos."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 406.68,
+            "end": 409.68,
+            "text": " And in fact over the next a lot of videos."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 409.68,
+            "end": 411.68,
+            "text": " Because we are going to do this challenge for 100 days."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 411.68,
+            "end": 412.68,
+            "text": " That's all for now."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 412.68,
+            "end": 414.68,
+            "text": " Guys, if you haven't accessed the playlist."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 414.68,
+            "end": 416.68,
+            "text": " Then do access it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 416.68,
+            "end": 417.68,
+            "text": " Bookmark it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 417.68,
+            "end": 418.68,
+            "text": " Save it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 418.68,
+            "end": 419.68,
+            "text": " That's all for now."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 419.68,
+            "end": 422.68,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 422.68,
+            "end": 425.68,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 427.68,
+            "end": 428.68,
+            "text": " Bye."
+        }
+    ],
+    "text": " Guys, welcome to 100 days of code again. In today's video, we will write our first Python program. Because this is going to be a Python program. In which we will write each line. We will have complete understanding of what is happening in our Python program. And we are going to write it from scratch. In our upcoming videos, we will write very dangerous Python programs from scratch. But this is going to be our first program. Let's go to the computer screen and let's get started. Music So I have come to my day 4 in the Apple. And today I am going to write my first program. Now, we had written our first program. In fact, we have not written many programs. But this is going to be the program. Which is going to be character by character word by word. I am going to write from scratch. So, its feeling is different. So, what you guys should do first is to write print. Now, what is in print Python programming? I will tell you. Print is a function. What is function? Basically, you use it to perform some tasks. Print is a function to invoke any function. We use it like this. This is our parenthesis. As you can see, after writing PRI NT, I have opened a parenthesis here. And then I can close it like this. And whatever I write in it, I will get printed. I know I write 7 here. So, you will get 7 print over here. But we know what we will do? We will write Hello word. And you must have heard of Hello word. Python programming. In any programming language, when any code is written, the first program is written as Hello word. Now, you guys see here. As soon as I wrote print Hello word, a red line came up here. What is this? Invalid syntax. Let's run it and see. What is this? With the initial error? Yes, do it with the initial error. When you will learn it, you will learn it. So, here you guys see, I wrote print Hello word. I got an error. I know why the error came. When you use print in Python, you have to give it a valid object. Hello word is not a valid object in Python's eyes. Python says that it is a Hello word. I don't know at all. Yes, but if you guys close it in a double code, Python programming knows that you are talking about a string. Hello word is a string. And we run it and see. And our first program is written. Hello word is getting to see us here. You guys see the output. Hello word is getting to see us. Play the strings. Write congratulations. Write it for yourself. For me, this is the first program. The character we have assembled and written. Very good. So far so good. If I write PRINT here, and then I write, I run it after 5 years. So first, write Hello word and then I will get it. Then write 5. We ran Python in the terminal. We saw that when I write Python 3 in the terminal, and then I write PRINT Hello word. So I am getting everything manually type line by line. I have to do everything manually. You see, I typed Hello word first. After that, I typed PRINT 5 here. So what am I going to type in one? Things. No, I don't need to type in one. I can make a script. That's why I made this script. Its name is main.py. Script means that line by line execution will be our code. If I write Hello word first, then I will get it. After that, PRINT 5 will be executed. And as I believe, PRINT by I will write like this and then I will run it. So first, Hello word, then 5, then bye. Because the script is executing line by line. Now, we don't have to go into the implementation of PRINT. If you want to know what other uses of PRINT are there, then you see, it is telling here. As soon as I took my mouse here, it will be telling me to give values here. It will be object. You can also give multiple values by using comma. Like this. Like, Hello word comma 7 is done. So you see, Hello word. And after that, after space, 7 is come. Then the next statement is executed. Then the next execute. And line by line, our script will be executed. Can we print only Python programming language? No, we can't print. We can do a lot of things. And this is the feature of this course. This is going to tell you what we will do. But we are starting our first Python program. We are understanding things, what is script. And when we execute a command here, line by line, give Python interpreter. Anything in Rappel. It is called Rappel. When we write Python 3 here, Python 3 is called Rappel. This is a re-evaluate print loop. I will give it 8 plus 9. So it will be 17. But after that, I will have to write something else again. I will get its output. Ideally, we don't want to do this. Ideally, we want to process sequence of instructions from Python. We want to say to Python, do this work. Execute this first, then execute this. Then do this. And assume that I bought 10 kg of rice. And I bought 5 kg. Or assume that I bought 17 kg of rice. And I bought 13 kg. So I will say, Python was 17 kg of rice. And I bought 13 kg of rice. So how much is it? So Python will tell you. You can do some computations in the print. For multiplication, you will have to put stars. Don't put x. You will have to put stars for divide. This is the same. And then plus and minus. These are simple things. So try this. But here, they are made in Rs. 221. Which I bought the vegetables. So Python is a very simple thing. So Python also gives you computation. In the upcoming videos, we will learn more things. Stay tuned in this course. I want to tell you that who doesn't have this course. If you can't stay consistent daily or if you want to do things in short cut, this course is not for you. Because this course asks for consistency. It demands that you practice. As you are watching the videos. And you take your time. Come out the day and complete the 100 days of code challenge. You have to go all day to 100 days. You give your attendance in the comments. I am present. I will see one comment. If you want to learn in a short time. And learn very quickly. If you want to learn without practicing. This course is not for you. Because it demands practice. Success doesn't have any elevator. You will have to take stairs for success. And these are stairs. And you have to climb the stairs for 100 days with me. And trust me, it will be worth it at the end. I will tell you those things from my years of experience. Which took me a lot of time to learn. And from the upcoming videos. We will actually do coding. We will write a lot of codes over the next few videos. And in fact over the next a lot of videos. Because we are going to do this challenge for 100 days. That's all for now. Guys, if you haven't accessed the playlist. Then do access it. Bookmark it. Save it. That's all for now. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

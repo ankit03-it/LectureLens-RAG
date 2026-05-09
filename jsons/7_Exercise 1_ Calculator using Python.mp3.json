@@ -1,0 +1,1223 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 0.0,
+            "end": 6.04,
+            "text": " Today you will know how much you will get in this video of 100 days of code case"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 6.04,
+            "end": 8.64,
+            "text": " And you will have to solve this exercise today"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 8.64,
+            "end": 12.0,
+            "text": " And after that you will have to give me the solution"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 12.0,
+            "end": 12.92,
+            "text": " Who will do it?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 12.92,
+            "end": 14.040000000000001,
+            "text": " At least solve it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 14.040000000000001,
+            "end": 18.12,
+            "text": " Let's go to the computer screen and I will tell you what is the question you have to solve"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 18.12,
+            "end": 27.560000000000002,
+            "text": " Music"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 27.560000000000002,
+            "end": 31.96,
+            "text": " So guys, I want to tell you about operators and why operators are important"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 31.96,
+            "end": 34.04,
+            "text": " And after that I will give you an exercise"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 34.04,
+            "end": 37.16,
+            "text": " So operators are simple things, we have studied in mathematics"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 37.16,
+            "end": 40.52,
+            "text": " If you are in class 5, then you should also know what is an operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 40.52,
+            "end": 43.16,
+            "text": " If you are watching this video on the 4th class, then listen"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 43.16,
+            "end": 45.16,
+            "text": " Addition is 15 plus 7"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 45.8,
+            "end": 47.16,
+            "text": " Add the numbers"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 47.16,
+            "end": 51.64,
+            "text": " You have taken 15 rupees, you have taken 7 rupees, how much money will you take to store?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 51.64,
+            "end": 53.879999999999995,
+            "text": " 21 rupees, no, wrong answer, 22 rupees"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 53.879999999999995,
+            "end": 55.64,
+            "text": " Okay, listen carefully"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 55.64,
+            "end": 57.16,
+            "text": " 15 plus 7 is 22"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 57.16,
+            "end": 61.959999999999994,
+            "text": " Similarly, 15 minus 7 is 9, wrong answer, 8 is ok"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 61.959999999999994,
+            "end": 63.48,
+            "text": " So keep in mind"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 63.48,
+            "end": 66.12,
+            "text": " If I say 9, then your mind should be completely closed"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 66.12,
+            "end": 69.47999999999999,
+            "text": " How did this person say 15 minus 7 is 9?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 69.47999999999999,
+            "end": 71.47999999999999,
+            "text": " So 15 minus 7 is what?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 71.47999999999999,
+            "end": 73.47999999999999,
+            "text": " Means you are saying what is it studying?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 73.47999999999999,
+            "end": 74.52,
+            "text": " It is 8"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 74.83999999999999,
+            "end": 78.84,
+            "text": " But I am just trying to tell you that in Python, all the operators are multiplication"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 78.84,
+            "end": 80.19999999999999,
+            "text": " You know"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 80.19999999999999,
+            "end": 83.88,
+            "text": " If I write here print 5 plus 6"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 83.88,
+            "end": 87.8,
+            "text": " Then you will say that what is the situation here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 87.8,
+            "end": 89.0,
+            "text": " I will close this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 89.0,
+            "end": 90.6,
+            "text": " You will say what is the situation here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 90.6,
+            "end": 92.75999999999999,
+            "text": " 5 plus 6 is 11, we know that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 92.75999999999999,
+            "end": 98.52,
+            "text": " But what if I tell you that I will give you 15 so that I can do minus"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 98.52,
+            "end": 100.52,
+            "text": " You have also been psyched"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 100.52,
+            "end": 101.16,
+            "text": " Okay"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 101.16,
+            "end": 104.03999999999999,
+            "text": " And I will start and then divide"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 104.04,
+            "end": 106.60000000000001,
+            "text": " So all these results will be printed on the screen"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 106.60000000000001,
+            "end": 109.0,
+            "text": " 6 is 5, 11, 6 is 9"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 109.0,
+            "end": 111.4,
+            "text": " And then how much is your 15 multiply by 6?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 111.4,
+            "end": 114.92,
+            "text": " You have 90, then how much is 15 divided by 6?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 114.92,
+            "end": 116.52000000000001,
+            "text": " 2.5 is ok"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 116.52000000000001,
+            "end": 121.32000000000001,
+            "text": " So this is what you know well"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 121.32000000000001,
+            "end": 122.92,
+            "text": " I will tell you"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 122.92,
+            "end": 126.76,
+            "text": " But a new operator that can be new for some people"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 126.76,
+            "end": 128.36,
+            "text": " That is the Floor Division Operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 128.36,
+            "end": 131.8,
+            "text": " If I want to take 2 out of 2.5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 131.88000000000002,
+            "end": 134.12,
+            "text": " Then I will use Floor Division Operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 134.12,
+            "end": 134.84,
+            "text": " Okay"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 134.84,
+            "end": 137.72,
+            "text": " Another operator is a modular operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 137.72,
+            "end": 139.72,
+            "text": " And what does modular operator do?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 139.72,
+            "end": 141.72,
+            "text": " It does simple work"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 141.72,
+            "end": 144.36,
+            "text": " If I write 15 percent 6"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 144.36,
+            "end": 145.88000000000002,
+            "text": " Then it will be simple"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 145.88000000000002,
+            "end": 149.08,
+            "text": " If I divide 15 by 6"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 149.08,
+            "end": 151.32000000000002,
+            "text": " I give you a very simple example"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 151.32000000000002,
+            "end": 153.16000000000003,
+            "text": " I divide 5 percent 3"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 153.16000000000003,
+            "end": 155.64000000000001,
+            "text": " If I divide by 3, then it will be 2 remainder"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 155.64000000000001,
+            "end": 157.64000000000001,
+            "text": " Simple thing is that it does not give remainder"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 157.64000000000001,
+            "end": 161.0,
+            "text": " If I divide 5 by 3, then it will be 2 remainder"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 161.96,
+            "end": 164.44,
+            "text": " 15 divided by 6"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 164.44,
+            "end": 166.28,
+            "text": " 15 divided by 6 is 2.5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 166.28,
+            "end": 169.64,
+            "text": " But after putting it on 2, it will be finished"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 169.64,
+            "end": 171.64,
+            "text": " And only 2 will be left"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 171.64,
+            "end": 173.64,
+            "text": " 15 divided by 6 is 2.5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 173.64,
+            "end": 175.64,
+            "text": " 15 multiplied by 6 is 90"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 175.64,
+            "end": 177.24,
+            "text": " So these are all operators"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 177.24,
+            "end": 179.64,
+            "text": " Jockey, addition, subtraction, multiplication"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 179.64,
+            "end": 182.44,
+            "text": " Now I have shown you the wrong exponential operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 182.44,
+            "end": 183.48,
+            "text": " It is a division"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 183.48,
+            "end": 184.84,
+            "text": " I will correct it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 184.84,
+            "end": 185.96,
+            "text": " It is a division operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 185.96,
+            "end": 187.96,
+            "text": " And I will tell you the exponential operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 187.96,
+            "end": 189.0,
+            "text": " What is it?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 189.0,
+            "end": 191.0,
+            "text": " Print 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 191.0,
+            "end": 193.0,
+            "text": " I will start 3"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 193.0,
+            "end": 195.0,
+            "text": " I will print it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 195.0,
+            "end": 197.0,
+            "text": " It becomes 5 to the power 3"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " I will fix it and come back"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 199.0,
+            "end": 201.0,
+            "text": " How did I write this in exponential?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " Some of you are saying that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " You made a mistake by making it a wrap"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 205.0,
+            "end": 207.0,
+            "text": " You are mistaken"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " Now I have written the exponential"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 209.0,
+            "end": 211.0,
+            "text": " And I have told you all the options"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 211.0,
+            "end": 213.0,
+            "text": " Try out"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 213.0,
+            "end": 215.0,
+            "text": " 5 star star 3 means 5 multiplied"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 215.0,
+            "end": 217.0,
+            "text": " 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 217.0,
+            "end": 219.0,
+            "text": " If I start from 5 star 4, it will be 5 multiplied"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 219.0,
+            "end": 221.0,
+            "text": " 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 221.0,
+            "end": 223.0,
+            "text": " If I multiply it 4 times, it will be 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " It is a simple thing"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 225.0,
+            "end": 227.0,
+            "text": " If I start from 2 star 4, it will be 2 multiplied"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 227.0,
+            "end": 229.0,
+            "text": " 2 multiplied by 2"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " 4 multiplied by 2"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 231.0,
+            "end": 233.0,
+            "text": " It will be 16"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 233.0,
+            "end": 235.0,
+            "text": " I will tell you the number of exercises"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 235.0,
+            "end": 237.0,
+            "text": " I have given you"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " Before that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " I want to show you a simple thing"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " If you don't want to solve this problem"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " If you don't want to solve this problem"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 245.0,
+            "end": 247.0,
+            "text": " If you don't want to solve this problem"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 247.0,
+            "end": 249.0,
+            "text": " I will not run this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 249.0,
+            "end": 251.0,
+            "text": " I will tell you the explanation"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 251.0,
+            "end": 253.0,
+            "text": " This is written for you"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 253.0,
+            "end": 255.0,
+            "text": " You will see this only when you can't solve the problem"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " I know that you can solve this problem"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " It is a simple exercise"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " You will go to the next page"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " You will see the exercise here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " Creator calculator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " You have to make a calculator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 267.0,
+            "end": 269.0,
+            "text": " Which is capable of"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " Performing, addition, subtraction, multiplication"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " Division operations on 2 numbers"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 273.0,
+            "end": 275.0,
+            "text": " You can do all these operations"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 275.0,
+            "end": 277.0,
+            "text": " Make a variable of 2 numbers"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 277.0,
+            "end": 279.0,
+            "text": " I won't give you more hints"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " It is very simple"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 281.0,
+            "end": 283.0,
+            "text": " I will give you more hints"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 283.0,
+            "end": 285.0,
+            "text": " Because I already have comments"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 285.0,
+            "end": 287.0,
+            "text": " That what is the point of this simple exercise"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " What is the point"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 289.0,
+            "end": 291.0,
+            "text": " The point is that many people are starting from programming"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 291.0,
+            "end": 293.0,
+            "text": " So give them confidence"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 293.0,
+            "end": 295.0,
+            "text": " And give them the curiosity"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " of programming"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 297.0,
+            "end": 299.0,
+            "text": " to wake them up"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " I hope you will enjoy"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 301.0,
+            "end": 303.0,
+            "text": " I want to tell you one thing"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " In the next video"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " I am announcing that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " This is video number 7"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 309.0,
+            "end": 311.0,
+            "text": " On day 8"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 311.0,
+            "end": 313.0,
+            "text": " We will solve this question"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " And I will shout out to those"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 315.0,
+            "end": 317.0,
+            "text": " who will solve this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " You have to do it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " I will tell you this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " You simply have to go to the cover page"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " You will see this kind of a rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " What you have to do here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " Is to make your own rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " You have made your own rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " It is a very simple rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " In which this calculator will be made"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 335.0,
+            "end": 337.0,
+            "text": " Make sure that it runs from the run button"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " You have made your own rappel by selecting python"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " And after that"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " You can comment on the rappel link"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " This is the comment section of this rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " In the comment section of day 7"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " You should be rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " And you should tell me in the comment section of rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " Because it will be that I will open the looker directly"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " From here"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 355.0,
+            "end": 357.0,
+            "text": " And I will be able to access your rappel"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " I will shout out to those who will solve this quickly"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " But don't do it wrong"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " If you start out"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " Take time"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " It is just about"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 367.0,
+            "end": 369.0,
+            "text": " I just want you to do it"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 369.0,
+            "end": 371.0,
+            "text": " You do it, it is very important"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 371.0,
+            "end": 373.0,
+            "text": " You don't have to do it first"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 373.0,
+            "end": 375.0,
+            "text": " Believe me, you don't have to"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " You have to do it yourself"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 377.0,
+            "end": 379.0,
+            "text": " You have to win"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " You have to move ahead"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 381.0,
+            "end": 383.0,
+            "text": " I will end this video with this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " If you haven't accessed the playlist"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 385.0,
+            "end": 387.0,
+            "text": " Click here and watch this video"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 387.0,
+            "end": 389.0,
+            "text": " Thank you so much for watching this video"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1_ Calculator using Python",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " Today you will know how much you will get in this video of 100 days of code case And you will have to solve this exercise today And after that you will have to give me the solution Who will do it? At least solve it Let's go to the computer screen and I will tell you what is the question you have to solve Music So guys, I want to tell you about operators and why operators are important And after that I will give you an exercise So operators are simple things, we have studied in mathematics If you are in class 5, then you should also know what is an operator If you are watching this video on the 4th class, then listen Addition is 15 plus 7 Add the numbers You have taken 15 rupees, you have taken 7 rupees, how much money will you take to store? 21 rupees, no, wrong answer, 22 rupees Okay, listen carefully 15 plus 7 is 22 Similarly, 15 minus 7 is 9, wrong answer, 8 is ok So keep in mind If I say 9, then your mind should be completely closed How did this person say 15 minus 7 is 9? So 15 minus 7 is what? Means you are saying what is it studying? It is 8 But I am just trying to tell you that in Python, all the operators are multiplication You know If I write here print 5 plus 6 Then you will say that what is the situation here I will close this You will say what is the situation here 5 plus 6 is 11, we know that But what if I tell you that I will give you 15 so that I can do minus You have also been psyched Okay And I will start and then divide So all these results will be printed on the screen 6 is 5, 11, 6 is 9 And then how much is your 15 multiply by 6? You have 90, then how much is 15 divided by 6? 2.5 is ok So this is what you know well I will tell you But a new operator that can be new for some people That is the Floor Division Operator If I want to take 2 out of 2.5 Then I will use Floor Division Operator Okay Another operator is a modular operator And what does modular operator do? It does simple work If I write 15 percent 6 Then it will be simple If I divide 15 by 6 I give you a very simple example I divide 5 percent 3 If I divide by 3, then it will be 2 remainder Simple thing is that it does not give remainder If I divide 5 by 3, then it will be 2 remainder 15 divided by 6 15 divided by 6 is 2.5 But after putting it on 2, it will be finished And only 2 will be left 15 divided by 6 is 2.5 15 multiplied by 6 is 90 So these are all operators Jockey, addition, subtraction, multiplication Now I have shown you the wrong exponential operator It is a division I will correct it It is a division operator And I will tell you the exponential operator What is it? Print 5 I will start 3 I will print it It becomes 5 to the power 3 I will fix it and come back How did I write this in exponential? Some of you are saying that You made a mistake by making it a wrap You are mistaken Now I have written the exponential And I have told you all the options Try out 5 star star 3 means 5 multiplied 5 multiplied by 5 If I start from 5 star 4, it will be 5 multiplied 5 multiplied by 5 If I multiply it 4 times, it will be 5 It is a simple thing If I start from 2 star 4, it will be 2 multiplied 2 multiplied by 2 4 multiplied by 2 It will be 16 I will tell you the number of exercises I have given you Before that I want to show you a simple thing If you don't want to solve this problem If you don't want to solve this problem If you don't want to solve this problem I will not run this I will tell you the explanation This is written for you You will see this only when you can't solve the problem I know that you can solve this problem It is a simple exercise You will go to the next page You will see the exercise here Creator calculator You have to make a calculator Which is capable of Performing, addition, subtraction, multiplication Division operations on 2 numbers You can do all these operations Make a variable of 2 numbers I won't give you more hints It is very simple I will give you more hints Because I already have comments That what is the point of this simple exercise What is the point The point is that many people are starting from programming So give them confidence And give them the curiosity of programming to wake them up I hope you will enjoy I want to tell you one thing In the next video I am announcing that This is video number 7 On day 8 We will solve this question And I will shout out to those who will solve this You have to do it I will tell you this You simply have to go to the cover page You will see this kind of a rappel What you have to do here Is to make your own rappel You have made your own rappel It is a very simple rappel In which this calculator will be made Make sure that it runs from the run button You have made your own rappel by selecting python And after that You can comment on the rappel link This is the comment section of this rappel In the comment section of day 7 You should be rappel And you should tell me in the comment section of rappel Because it will be that I will open the looker directly From here And I will be able to access your rappel I will shout out to those who will solve this quickly But don't do it wrong If you start out Take time It is just about I just want you to do it You do it, it is very important You don't have to do it first Believe me, you don't have to You have to do it yourself You have to win You have to move ahead I will end this video with this If you haven't accessed the playlist Click here and watch this video Thank you so much for watching this video And I will see you next time"
+}

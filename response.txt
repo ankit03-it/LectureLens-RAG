@@ -1,0 +1,11 @@
+I'd be happy to help you with your Ultimate Python for Beginners course.
+
+It seems like you're having some trouble with Exercise 1 in the course, specifically "Calculator using Python". You want to know what the problem was and get a hint about its solution.
+
+The video that covers this topic is Video #7, and it starts at around 2 minutes and 53 seconds into the video. Unfortunately, I don't have the exact timestamp of the end time for this video chunk, but I can tell you that the problem is indeed mentioned in the text at a certain point in the video.
+
+It seems like the problem is related to understanding how to correctly use typecasting in Python, and the solution involves converting input data types into integers or floats as needed. The instructor hints at the solution being presented in this very video.
+
+If you're still stuck, I'd recommend watching Video #7 from the start (2 minutes and 53 seconds in) until you find the section that discusses typecasting and exercises related to it. You might also want to take a closer look at the "Exercise 1" page mentioned in the text, as it's likely to provide more context for this problem.
+
+Let me know if you have any other questions or need further clarification on anything!

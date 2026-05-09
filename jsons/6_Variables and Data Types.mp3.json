@@ -1,0 +1,3778 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 0.0,
+            "end": 5.6000000000000005,
+            "text": " You are in day 6, I wanted to do this by 100 days of code."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 5.6000000000000005,
+            "end": 7.72,
+            "text": " Today I will tell you what variables are."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 7.72,
+            "end": 9.76,
+            "text": " Variables are like a container."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 9.76,
+            "end": 13.76,
+            "text": " Like you have containers in your kitchen, with lentils, rice, etc."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 13.76,
+            "end": 15.44,
+            "text": " Variables are like that too."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 15.44,
+            "end": 19.0,
+            "text": " This analogy is perfect in Python programming language."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 19.0,
+            "end": 26.52,
+            "text": " If I have a container and it is in the container, I will put it in the container."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 26.52,
+            "end": 29.68,
+            "text": " So I changed the content of this container."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 29.68,
+            "end": 37.4,
+            "text": " On the other hand, if I take another container and put water in it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 37.4,
+            "end": 39.72,
+            "text": " I can change the content of milk."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 39.72,
+            "end": 45.12,
+            "text": " In Python, it is the same that you make containers and store them."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 45.12,
+            "end": 47.84,
+            "text": " Data is stored in memory."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 47.84,
+            "end": 50.56,
+            "text": " The RAM is stored in it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 50.56,
+            "end": 51.64,
+            "text": " What is the data type?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 51.64,
+            "end": 58.56,
+            "text": " Like a container can be liquid, solid, dal, sugar, etc."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 58.56,
+            "end": 60.56,
+            "text": " Food is not like that too."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 60.56,
+            "end": 64.12,
+            "text": " Like we have a lot of things, like a cleaning liquid."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 64.12,
+            "end": 65.24000000000001,
+            "text": " Food is not like that."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 65.24000000000001,
+            "end": 67.12,
+            "text": " So there are different types of food."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 67.12,
+            "end": 69.68,
+            "text": " Like this, there are different types of food in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 69.68,
+            "end": 72.0,
+            "text": " Data types are different."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 72.0,
+            "end": 76.0,
+            "text": " Let's go to the computer screen and see what are the different types of food."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 76.0,
+            "end": 77.12,
+            "text": " And how do we do it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 77.12,
+            "end": 78.4,
+            "text": " Let's get started."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 78.4,
+            "end": 89.60000000000001,
+            "text": " What is the variable?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 89.60000000000001,
+            "end": 91.2,
+            "text": " Let's understand this first."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 91.2,
+            "end": 92.64,
+            "text": " The variable is like a container."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 92.64,
+            "end": 94.32000000000001,
+            "text": " As I already told you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 94.32000000000001,
+            "end": 96.04,
+            "text": " But how is this container?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 96.04,
+            "end": 97.88000000000001,
+            "text": " This container is in memory."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 97.88000000000001,
+            "end": 100.0,
+            "text": " If you are confused with all these things,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 100.0,
+            "end": 102.48,
+            "text": " then you come here and say,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 102.48,
+            "end": 103.80000000000001,
+            "text": " What am I doing here?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 103.80000000000001,
+            "end": 105.08000000000001,
+            "text": " In the main dot py."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 105.16,
+            "end": 110.08,
+            "text": " And you will come to know exactly how to make a variable in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 110.08,
+            "end": 112.52,
+            "text": " And why is it necessary to make a variable in Python?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 112.52,
+            "end": 115.48,
+            "text": " If I write a is equal to one here,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 115.48,
+            "end": 118.08,
+            "text": " I just need to do this much and print it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 118.08,
+            "end": 120.48,
+            "text": " So basically I am saying that in memory,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 120.48,
+            "end": 122.88,
+            "text": " in my computer's RAM,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 122.88,
+            "end": 128.44,
+            "text": " store one in the actual memory."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 128.44,
+            "end": 132.44,
+            "text": " And give that address to one in the store."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 132.44,
+            "end": 135.16,
+            "text": " Now it will look a little complex to listen to."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 135.16,
+            "end": 137.24,
+            "text": " But when I write a is equal to one,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 137.24,
+            "end": 143.04,
+            "text": " I will use a whenever I want to refer the value of it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 143.04,
+            "end": 144.35999999999999,
+            "text": " I will print it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 144.35999999999999,
+            "end": 145.6,
+            "text": " If you say a is equal to one,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 145.6,
+            "end": 147.64,
+            "text": " then I remember that I should not print one directly."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 147.64,
+            "end": 149.16,
+            "text": " Why should I run this program?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 149.16,
+            "end": 150.24,
+            "text": " How about this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 150.24,
+            "end": 151.56,
+            "text": " If I do this,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 151.56,
+            "end": 154.28,
+            "text": " then you made a program to save a number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 154.28,
+            "end": 157.44,
+            "text": " A number is saved here and it is being printed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 157.44,
+            "end": 159.44,
+            "text": " So a is equal to a,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 159.44,
+            "end": 162.2,
+            "text": " a is stored in a and by printing,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 162.2,
+            "end": 163.6,
+            "text": " it is printed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 163.6,
+            "end": 165.0,
+            "text": " Can I do something like this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 165.0,
+            "end": 166.39999999999998,
+            "text": " b is equal to Harry."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 166.39999999999998,
+            "end": 169.6,
+            "text": " The answer is yes, I can do it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 169.6,
+            "end": 171.2,
+            "text": " But if I run it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 171.2,
+            "end": 173.0,
+            "text": " I will get the number print token."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 173.0,
+            "end": 175.2,
+            "text": " And if I print b,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 175.2,
+            "end": 179.2,
+            "text": " then you will see that I will get this Harry print token."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 179.2,
+            "end": 180.6,
+            "text": " Which is great, which is great."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 180.6,
+            "end": 182.79999999999998,
+            "text": " Because this is a different data type,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 182.79999999999998,
+            "end": 184.0,
+            "text": " this is a different data type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 184.0,
+            "end": 186.39999999999998,
+            "text": " Now you will say that when you wrote"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 186.39999999999998,
+            "end": 187.79999999999998,
+            "text": " one, two, three, four, four, four in Harry,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 187.79999999999998,
+            "end": 189.0,
+            "text": " then you did not write the double quotes."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 189.0,
+            "end": 190.6,
+            "text": " But when Harry wrote it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 190.6,
+            "end": 192.2,
+            "text": " why didn't you write it like this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 192.2,
+            "end": 193.4,
+            "text": " Because it is not written like this,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 193.4,
+            "end": 194.4,
+            "text": " because there will be an error."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 194.4,
+            "end": 195.79999999999998,
+            "text": " Now why will there be an error?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 195.79999999999998,
+            "end": 197.0,
+            "text": " You may have written it directly,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 197.0,
+            "end": 198.4,
+            "text": " I could have written Harry."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 198.4,
+            "end": 201.79999999999998,
+            "text": " But we have to write double quotes because of this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 201.79999999999998,
+            "end": 204.2,
+            "text": " Sometimes we represent a string data type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 204.2,
+            "end": 206.79999999999998,
+            "text": " So that if you have ever done this,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 206.79999999999998,
+            "end": 208.0,
+            "text": " it is possible that someone has said this,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 208.0,
+            "end": 209.79999999999998,
+            "text": " that Harry is equal to nine."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 209.79999999999998,
+            "end": 211.79999999999998,
+            "text": " Now someone says b is equal to Harry."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 211.79999999999998,
+            "end": 214.4,
+            "text": " Now how will he know that you want to print Harry string"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 214.4,
+            "end": 215.79999999999998,
+            "text": " or you want to print nine."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 215.79999999999998,
+            "end": 217.2,
+            "text": " If I run this program,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 217.2,
+            "end": 218.6,
+            "text": " then I will get nine print tokens."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 218.6,
+            "end": 220.4,
+            "text": " You see, here it will be nine print."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 220.4,
+            "end": 224.20000000000002,
+            "text": " So it is possible that you literally want to print Harry,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 224.20000000000002,
+            "end": 225.6,
+            "text": " but if you print nine,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 225.6,
+            "end": 227.20000000000002,
+            "text": " that is why there are some rules in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 227.20000000000002,
+            "end": 228.6,
+            "text": " I will delete it right now."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 228.6,
+            "end": 229.8,
+            "text": " b is equal to double quote."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 229.8,
+            "end": 231.0,
+            "text": " I will write it directly."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 231.0,
+            "end": 232.20000000000002,
+            "text": " Whatever will be in double quotes,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 232.20000000000002,
+            "end": 234.6,
+            "text": " it will be printed as you can see here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 234.6,
+            "end": 237.0,
+            "text": " Now what I have written here for you people,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 237.0,
+            "end": 238.4,
+            "text": " I will tell you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 238.4,
+            "end": 239.8,
+            "text": " So see what is variable?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 239.8,
+            "end": 242.20000000000002,
+            "text": " Variable is like a container that holds data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 242.20000000000002,
+            "end": 243.8,
+            "text": " A container that holds data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 243.8,
+            "end": 247.6,
+            "text": " Very similar to how our containers in kitchen hold sugar."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 247.6,
+            "end": 249.0,
+            "text": " Like in your kitchen,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 249.0,
+            "end": 252.0,
+            "text": " salt, sugar, salt, all these things."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 252.0,
+            "end": 254.2,
+            "text": " It is used as a box to hold all these things."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 254.2,
+            "end": 255.2,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 255.2,
+            "end": 257.2,
+            "text": " The rating of variable is just like the rating of placeholder"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 257.2,
+            "end": 258.8,
+            "text": " in memory assigning it some value."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 258.8,
+            "end": 261.6,
+            "text": " And here I have shown you the four types of variables."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 261.6,
+            "end": 263.6,
+            "text": " I have declared you all."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 263.6,
+            "end": 265.8,
+            "text": " Now these are the four different types of variables."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 265.8,
+            "end": 267.6,
+            "text": " That is, their type is different."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 267.6,
+            "end": 268.6,
+            "text": " For example,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 268.6,
+            "end": 270.8,
+            "text": " suppose you are a jeep."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 270.8,
+            "end": 271.6,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 271.6,
+            "end": 273.6,
+            "text": " A doggy is also a jeep."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 273.6,
+            "end": 275.4,
+            "text": " Okay. A kitty is also a jeep."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 275.4,
+            "end": 277.4,
+            "text": " But we are all three different types of jeeps."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 277.4,
+            "end": 278.0,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 278.0,
+            "end": 280.6,
+            "text": " Similarly, A is equal to one of a different variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 280.6,
+            "end": 282.6,
+            "text": " B is equal to true of a different variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 282.6,
+            "end": 284.4,
+            "text": " C is equal to Harry's different variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 284.4,
+            "end": 286.4,
+            "text": " D is equal to none of a different variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 286.4,
+            "end": 287.0,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " You are watching this video on one X."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 289.0,
+            "end": 290.4,
+            "text": " Now here A is equal to one."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 290.4,
+            "end": 291.6,
+            "text": " If I do it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 291.6,
+            "end": 293.2,
+            "text": " then the integer in A is stored."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 293.2,
+            "end": 294.6,
+            "text": " B is equal to true."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 294.6,
+            "end": 296.6,
+            "text": " So B is a Boolean store."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 296.6,
+            "end": 298.2,
+            "text": " C is equal to Harry's string."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 298.2,
+            "end": 300.2,
+            "text": " And D is equal to none type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 300.2,
+            "end": 302.4,
+            "text": " The name of D is equal to none."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 302.4,
+            "end": 304.0,
+            "text": " So the variable of none type is one."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 304.0,
+            "end": 305.0,
+            "text": " Which is formed here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 305.0,
+            "end": 305.6,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 305.6,
+            "end": 307.6,
+            "text": " So there are four different types of data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 308.2,
+            "end": 309.4,
+            "text": " What is data type?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 309.4,
+            "end": 310.8,
+            "text": " And why do we need data type?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 310.8,
+            "end": 312.4,
+            "text": " Now see, why do we need data type?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 312.4,
+            "end": 314.0,
+            "text": " I have told you here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 314.0,
+            "end": 316.2,
+            "text": " That we need data type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 316.2,
+            "end": 320.8,
+            "text": " So that we can store different types of values in memory."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 320.8,
+            "end": 321.0,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 321.0,
+            "end": 322.0,
+            "text": " This is known."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 322.0,
+            "end": 326.2,
+            "text": " Data type specifies the type of value which can hold a variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 326.2,
+            "end": 329.2,
+            "text": " This is required in programming to perform operations."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 329.2,
+            "end": 332.2,
+            "text": " Suppose, if I write here,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 332.2,
+            "end": 334.2,
+            "text": " print A plus B."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 334.2,
+            "end": 335.0,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 335.0,
+            "end": 336.6,
+            "text": " So will it add Harry in it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 336.6,
+            "end": 338.40000000000003,
+            "text": " Now see, there will be a error here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 338.40000000000003,
+            "end": 339.40000000000003,
+            "text": " It says,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 339.40000000000003,
+            "end": 340.40000000000003,
+            "text": " one is your integer."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 340.40000000000003,
+            "end": 341.40000000000003,
+            "text": " The other is your string."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 341.40000000000003,
+            "end": 342.40000000000003,
+            "text": " How will you connect?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 342.40000000000003,
+            "end": 344.0,
+            "text": " I mean, what do you want?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 344.0,
+            "end": 346.0,
+            "text": " If I reduce the number a little,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 346.0,
+            "end": 347.8,
+            "text": " how will Harry connect in the number of 1003?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 347.8,
+            "end": 348.8,
+            "text": " I mean, what do you want?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 348.8,
+            "end": 349.8,
+            "text": " I mean, what are you saying?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 349.8,
+            "end": 350.8,
+            "text": " You have made a plan."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 350.8,
+            "end": 352.40000000000003,
+            "text": " Python is saying that, what is it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 352.40000000000003,
+            "end": 353.20000000000005,
+            "text": " What?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 353.20000000000005,
+            "end": 354.20000000000005,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 354.20000000000005,
+            "end": 355.6,
+            "text": " And we are saying from Python,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 355.6,
+            "end": 358.0,
+            "text": " we want to concatenate actually."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 358.0,
+            "end": 359.40000000000003,
+            "text": " So Python says, what is it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 359.40000000000003,
+            "end": 360.40000000000003,
+            "text": " You want to concatenate."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 360.40000000000003,
+            "end": 361.40000000000003,
+            "text": " You are putting a plus."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 361.40000000000003,
+            "end": 363.8,
+            "text": " I mean, how will I know that you don't want to concatenate?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 363.8,
+            "end": 365.40000000000003,
+            "text": " You want to do something else."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 365.40000000000003,
+            "end": 366.20000000000005,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 366.2,
+            "end": 368.59999999999997,
+            "text": " So that's why we do what here?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 368.59999999999997,
+            "end": 370.8,
+            "text": " When we do A plus B,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 370.8,
+            "end": 372.59999999999997,
+            "text": " then two types of data types should be there."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 372.59999999999997,
+            "end": 373.8,
+            "text": " Then we can do it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 373.8,
+            "end": 375.4,
+            "text": " So I will do the work."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 375.4,
+            "end": 377.59999999999997,
+            "text": " I will make a variable with the name A1."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 377.59999999999997,
+            "end": 378.4,
+            "text": " I will write 9."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 378.4,
+            "end": 379.8,
+            "text": " If I write A plus A1,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 379.8,
+            "end": 382.0,
+            "text": " then this operation will be performed correctly."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 382.0,
+            "end": 383.0,
+            "text": " And here you see,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 383.0,
+            "end": 384.2,
+            "text": " it will be written 132."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 384.2,
+            "end": 384.8,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 384.8,
+            "end": 386.0,
+            "text": " So this thing was very simple."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 386.0,
+            "end": 387.0,
+            "text": " You will know."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 387.0,
+            "end": 389.2,
+            "text": " But we need data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 389.2,
+            "end": 392.59999999999997,
+            "text": " So that we can do various operations"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 392.59999999999997,
+            "end": 394.2,
+            "text": " without causing an error."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 394.2,
+            "end": 395.4,
+            "text": " Without causing an error."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 395.4,
+            "end": 399.4,
+            "text": " In Python, we can print the type of operator using type function."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 399.4,
+            "end": 401.0,
+            "text": " And we have a variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 401.0,
+            "end": 403.2,
+            "text": " And I want to know what its type is."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 403.2,
+            "end": 405.0,
+            "text": " So I can know like this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 405.0,
+            "end": 408.4,
+            "text": " I can say the type of A is"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 408.4,
+            "end": 411.4,
+            "text": " and here I can write by using comma."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 411.4,
+            "end": 412.79999999999995,
+            "text": " Type of A."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 414.79999999999995,
+            "end": 415.2,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 415.2,
+            "end": 418.0,
+            "text": " So I have made this bracket type of A."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 418.0,
+            "end": 422.2,
+            "text": " And I have made this bracket of print of this opening parenthesis."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 422.2,
+            "end": 424.0,
+            "text": " If I run it, then you see."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 424.0,
+            "end": 426.6,
+            "text": " The type of A is class int."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 426.6,
+            "end": 428.6,
+            "text": " So A is an integer."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 428.6,
+            "end": 432.6,
+            "text": " Let's see if we can do this with B."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 432.6,
+            "end": 434.0,
+            "text": " Or not."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 434.0,
+            "end": 435.2,
+            "text": " I will run it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 435.2,
+            "end": 440.0,
+            "text": " And here you see type of B is class str."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 440.0,
+            "end": 443.0,
+            "text": " And I will do the same thing here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 443.0,
+            "end": 446.0,
+            "text": " Type of C is."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 446.0,
+            "end": 447.4,
+            "text": " And here you see what is the type of C?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 447.4,
+            "end": 448.4,
+            "text": " There is nothing C."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 448.4,
+            "end": 449.2,
+            "text": " What type will it be?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 449.2,
+            "end": 450.4,
+            "text": " I will see A1."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 450.4,
+            "end": 451.4,
+            "text": " Or I will do one thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 451.4,
+            "end": 452.4,
+            "text": " I will make C."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 452.4,
+            "end": 453.4,
+            "text": " Why don't I make C?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 453.4,
+            "end": 456.79999999999995,
+            "text": " Why don't I make these four variables directly?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 456.79999999999995,
+            "end": 457.79999999999995,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 457.79999999999995,
+            "end": 459.4,
+            "text": " So the whole string is in ABCD."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 459.4,
+            "end": 461.0,
+            "text": " I have four of them."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 461.0,
+            "end": 465.0,
+            "text": " If I run it now, then type of C is written."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 465.0,
+            "end": 466.4,
+            "text": " A1 is not defined."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 466.4,
+            "end": 467.0,
+            "text": " What is this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 467.0,
+            "end": 467.79999999999995,
+            "text": " Oh."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 467.79999999999995,
+            "end": 469.59999999999997,
+            "text": " I have written print A plus A1."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 469.59999999999997,
+            "end": 470.2,
+            "text": " It's okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 470.2,
+            "end": 471.4,
+            "text": " I will define A1 too."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 471.4,
+            "end": 473.2,
+            "text": " Because I have to give this program to you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 473.2,
+            "end": 475.2,
+            "text": " You have to give it to me."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 475.2,
+            "end": 477.2,
+            "text": " So here you see it is equal to 1."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 477.2,
+            "end": 479.0,
+            "text": " 1, 2, 10."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 479.0,
+            "end": 480.2,
+            "text": " Type of A is n."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 480.2,
+            "end": 481.4,
+            "text": " Type of B is bull."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 481.4,
+            "end": 482.4,
+            "text": " Type of C is string."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 482.4,
+            "end": 483.0,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 483.0,
+            "end": 485.6,
+            "text": " These three types have printed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 485.6,
+            "end": 486.8,
+            "text": " So come on, it's very good."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 486.8,
+            "end": 489.2,
+            "text": " I understood the story here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 489.2,
+            "end": 492.6,
+            "text": " Now let me tell you some built-in data types in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 492.6,
+            "end": 496.8,
+            "text": " The first built-in data type is the number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 496.8,
+            "end": 498.2,
+            "text": " Which I have told you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 498.2,
+            "end": 498.7,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 498.7,
+            "end": 500.6,
+            "text": " Int float complex."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 500.6,
+            "end": 506.0,
+            "text": " If this A is equal to 1.1, you saw that type of A was showing integer."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 506.0,
+            "end": 510.4,
+            "text": " If I make it 1.1, then this type of A will show float."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 510.4,
+            "end": 513.1999999999999,
+            "text": " And if I write something like this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 513.1999999999999,
+            "end": 517.0,
+            "text": " I write this 8 plus 2i."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 517.0,
+            "end": 518.6,
+            "text": " So this is a complex number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 518.6,
+            "end": 523.0,
+            "text": " Actually, I have to do something like this to make this complex number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 523.0,
+            "end": 525.0,
+            "text": " I will do 8 comma 2."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 525.0,
+            "end": 527.6,
+            "text": " And as soon as I do this, it will become a complex number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 527.6,
+            "end": 532.8,
+            "text": " And you can see here that the complex number of 8 plus 2j is formed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 532.8,
+            "end": 533.3,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 533.3,
+            "end": 537.0,
+            "text": " If you don't know about complex numbers, that's totally fine."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 537.0,
+            "end": 538.8,
+            "text": " I don't expect you to know complex numbers."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 538.8,
+            "end": 542.8,
+            "text": " But I just want to tell you that you can also make complex numbers in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 542.8,
+            "end": 545.8,
+            "text": " These are basically real part and imaginary part numbers."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 545.8,
+            "end": 549.4,
+            "text": " If you have increased complex numbers in class 12, good for you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 549.4,
+            "end": 553.6999999999999,
+            "text": " If you haven't increased your class 11, 12th, complex number, 11th, but"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 553.6999999999999,
+            "end": 556.5,
+            "text": " there are different boards of different labors."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 556.5,
+            "end": 558.4,
+            "text": " So someone's 12th and someone's 11th."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 558.4,
+            "end": 559.0999999999999,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 559.0999999999999,
+            "end": 562.4,
+            "text": " Anyways, class complex is showing here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 562.4,
+            "end": 565.0,
+            "text": " I just wanted to show you that this is a complex number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 565.0,
+            "end": 567.4,
+            "text": " So here you see I can write integer type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 567.4,
+            "end": 569.0,
+            "text": " It can be a floating board number."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 569.0,
+            "end": 570.8,
+            "text": " It can be a complex type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 570.8,
+            "end": 575.0,
+            "text": " And if we talk about string, then hello word double code is enclosed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 575.0,
+            "end": 576.6999999999999,
+            "text": " Hello word double code is enclosed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 576.6999999999999,
+            "end": 579.1999999999999,
+            "text": " Python programming is all string."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 579.1999999999999,
+            "end": 579.8,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 579.8,
+            "end": 583.8,
+            "text": " Then after this, if I talk about Boolean data, then this can be true or false."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 583.8,
+            "end": 586.1999999999999,
+            "text": " Now why do we want to use this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 586.1999999999999,
+            "end": 592.5,
+            "text": " Suppose you write a function and you want to return it that you can drive or not."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 592.5,
+            "end": 595.1,
+            "text": " So if you don't know what the function is, then I'll tell you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 595.1,
+            "end": 599.0,
+            "text": " Suppose you want to tell me that you can drive or not."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 599.0,
+            "end": 602.3000000000001,
+            "text": " So you can give me just a small information."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 602.3000000000001,
+            "end": 604.5,
+            "text": " Yes or no?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 604.5,
+            "end": 607.3000000000001,
+            "text": " These Booleans work in the same way."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 607.3000000000001,
+            "end": 610.7,
+            "text": " You don't need to directly say that yes, I can drive."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 610.7,
+            "end": 613.8000000000001,
+            "text": " You don't need to give so much information."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 613.8000000000001,
+            "end": 615.0,
+            "text": " Yes or no?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 615.0,
+            "end": 617.2,
+            "text": " Yes means true or false."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 617.2,
+            "end": 619.2,
+            "text": " Like in string, there are a lot of information."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 619.2,
+            "end": 620.9,
+            "text": " H is H, A, R, R, Y, etc."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 620.9,
+            "end": 622.6,
+            "text": " There can be a lot of characters."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 622.6,
+            "end": 625.5,
+            "text": " But you can also tell me that you can drive or not."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 625.5,
+            "end": 628.3000000000001,
+            "text": " You can say yes or no."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 628.3000000000001,
+            "end": 630.0,
+            "text": " And you should be good."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 630.0,
+            "end": 632.2,
+            "text": " So this is the Boolean data type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 632.2,
+            "end": 632.8000000000001,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 632.8000000000001,
+            "end": 637.2,
+            "text": " We will see when we will use it and when we will see it in the coming time."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 637.2,
+            "end": 639.0,
+            "text": " Then there is a sequence data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 639.0,
+            "end": 639.4,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 639.4,
+            "end": 641.7,
+            "text": " I will talk about list and tuple here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 641.7,
+            "end": 644.0,
+            "text": " And we don't have to get too complex in list and tuple."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 644.0,
+            "end": 647.4,
+            "text": " I just want to tell you that list and tuple also exist."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 647.4,
+            "end": 650.6,
+            "text": " List is an ordered collection of data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 650.6,
+            "end": 651.9,
+            "text": " And we will read it ahead."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 651.9,
+            "end": 653.1999999999999,
+            "text": " So I won't tell you here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 653.1999999999999,
+            "end": 653.6999999999999,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 653.6999999999999,
+            "end": 656.6999999999999,
+            "text": " If you want to know about list,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 656.6999999999999,
+            "end": 657.9,
+            "text": " Be patient."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 657.9,
+            "end": 658.6999999999999,
+            "text": " Be patient."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 658.6999999999999,
+            "end": 660.5,
+            "text": " I will tell you about list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 660.5,
+            "end": 661.1,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 661.1,
+            "end": 661.8,
+            "text": " What is list?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 661.8,
+            "end": 666.3,
+            "text": " So list basically is collection of different data elements."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 666.3,
+            "end": 668.0,
+            "text": " Which can be of different data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 668.0,
+            "end": 669.5,
+            "text": " Like integer, float,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 669.5,
+            "end": 671.0,
+            "text": " You put list in a list,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 671.0,
+            "end": 672.1999999999999,
+            "text": " You put another list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 672.1999999999999,
+            "end": 675.1,
+            "text": " So list basically is list of items."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 675.1,
+            "end": 676.8,
+            "text": " Which can be of different data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 676.8,
+            "end": 677.6,
+            "text": " I will tell you this much."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 677.6,
+            "end": 678.6999999999999,
+            "text": " I won't tell you in front of this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 678.6999999999999,
+            "end": 679.3,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 679.3,
+            "end": 681.4,
+            "text": " And we can change this list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 681.4,
+            "end": 682.5,
+            "text": " What is tuple?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 682.5,
+            "end": 683.6999999999999,
+            "text": " Exactly the same thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 683.6999999999999,
+            "end": 685.1999999999999,
+            "text": " I am telling you in very simple language."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 685.1999999999999,
+            "end": 686.3,
+            "text": " Exactly the same thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 686.3,
+            "end": 688.3,
+            "text": " Except that it is immutable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 688.3,
+            "end": 689.4,
+            "text": " Immutable means,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 689.4,
+            "end": 691.1999999999999,
+            "text": " It can't be changed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 691.1999999999999,
+            "end": 691.6999999999999,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 691.6999999999999,
+            "end": 695.1999999999999,
+            "text": " Now this immutable, immutable people confuse a lot."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 695.1999999999999,
+            "end": 697.5,
+            "text": " Like many people say this to me."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 697.5,
+            "end": 699.0,
+            "text": " I am telling you from my experience."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 699.0,
+            "end": 700.3,
+            "text": " Many people say to me that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 700.3,
+            "end": 702.6,
+            "text": " Brother, we can't remember that"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 702.6,
+            "end": 705.1999999999999,
+            "text": " Can we change mutable or immutable?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 705.1999999999999,
+            "end": 706.0,
+            "text": " We have a problem."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 706.0,
+            "end": 706.6,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 706.6,
+            "end": 710.0,
+            "text": " I will tell you how to remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 710.0,
+            "end": 711.7,
+            "text": " Suppose you have mutable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 711.7,
+            "end": 713.6,
+            "text": " You must have studied mutation."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 713.6,
+            "end": 714.9,
+            "text": " Mutation means,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 714.9,
+            "end": 716.1,
+            "text": " There are changes."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 716.1,
+            "end": 718.3,
+            "text": " Like a theory is said in that."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 718.3,
+            "end": 720.6,
+            "text": " Human's tail used to be done first."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 720.6,
+            "end": 721.8,
+            "text": " And then after that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 721.8,
+            "end": 722.7,
+            "text": " Mutations are done."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 722.7,
+            "end": 725.2,
+            "text": " And the human's tail is gone from that mutation."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 725.2,
+            "end": 725.8,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 725.8,
+            "end": 727.0,
+            "text": " It is said like this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 727.0,
+            "end": 727.6,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 727.6,
+            "end": 729.1,
+            "text": " Now I am not teaching you biology."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 729.1,
+            "end": 730.9,
+            "text": " I am just telling you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 730.9,
+            "end": 732.4,
+            "text": " But what is mutation?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 732.4,
+            "end": 733.2,
+            "text": " Change."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 733.2,
+            "end": 733.5,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 733.5,
+            "end": 734.1,
+            "text": " I am saying this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 734.1,
+            "end": 736.1,
+            "text": " If you have studied genetic algorithm,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 736.1,
+            "end": 738.4,
+            "text": " If you have studied a little biology,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 738.4,
+            "end": 739.4,
+            "text": " In class 10th,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 739.4,
+            "end": 740.3,
+            "text": " In class 9th,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 740.3,
+            "end": 740.9,
+            "text": " Come on,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 740.9,
+            "end": 742.0,
+            "text": " It must have been a little big."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 742.0,
+            "end": 743.6,
+            "text": " Mutation means changes."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 743.6,
+            "end": 744.3,
+            "text": " Like,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 744.3,
+            "end": 745.1999999999999,
+            "text": " First,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 745.1999999999999,
+            "end": 746.0,
+            "text": " There was a monkey."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 746.0,
+            "end": 746.8,
+            "text": " Then a human became."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 746.8,
+            "end": 747.3,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 747.3,
+            "end": 748.6,
+            "text": " It is a mutation."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 748.6,
+            "end": 748.8,
+            "text": " So,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 748.8,
+            "end": 750.0,
+            "text": " Mutable means,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 750.0,
+            "end": 751.9,
+            "text": " Change can be done."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 751.9,
+            "end": 753.4,
+            "text": " Immutable means,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 753.4,
+            "end": 754.6999999999999,
+            "text": " Can't be changed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 754.6999999999999,
+            "end": 754.9,
+            "text": " So,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 754.9,
+            "end": 756.1,
+            "text": " You can remember like this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 756.1,
+            "end": 757.4,
+            "text": " This is a way of remembering."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 757.4,
+            "end": 758.6,
+            "text": " It may be that you remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 758.6,
+            "end": 760.5,
+            "text": " You all are listening to me."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 760.5,
+            "end": 761.1999999999999,
+            "text": " Come on, bro."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 761.1999999999999,
+            "end": 762.8,
+            "text": " I remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 762.8,
+            "end": 763.8,
+            "text": " I was telling you that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 763.8,
+            "end": 765.3,
+            "text": " Those who don't remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 765.3,
+            "end": 765.8,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 765.8,
+            "end": 767.0,
+            "text": " Now look here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 767.0,
+            "end": 768.6,
+            "text": " I made a list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 768.6,
+            "end": 770.3,
+            "text": " List the collection of items."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 770.3,
+            "end": 771.3,
+            "text": " Double is the same."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 771.3,
+            "end": 772.9,
+            "text": " Collection of items."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 772.9,
+            "end": 774.2,
+            "text": " Except the fact that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 774.2,
+            "end": 775.8,
+            "text": " You can't change it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 775.8,
+            "end": 777.5,
+            "text": " If you change it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 777.5,
+            "end": 779.8,
+            "text": " Double will give you an error."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 779.8,
+            "end": 780.1,
+            "text": " Now,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 780.1,
+            "end": 781.2,
+            "text": " How will we change it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 781.2,
+            "end": 781.8,
+            "text": " What is it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 781.8,
+            "end": 784.3,
+            "text": " We will keep all this for the video of double."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 784.3,
+            "end": 785.8,
+            "text": " I won't tell you now."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 785.8,
+            "end": 787.1,
+            "text": " Then another data type is,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 787.1,
+            "end": 788.0,
+            "text": " Map data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 788.0,
+            "end": 789.6,
+            "text": " Dictionary."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 789.6,
+            "end": 790.4,
+            "text": " What is this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 790.4,
+            "end": 791.8,
+            "text": " Dictionary is not in your house?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 791.8,
+            "end": 792.9,
+            "text": " No."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 792.9,
+            "end": 793.4,
+            "text": " No problem."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 793.4,
+            "end": 795.2,
+            "text": " You must know what is a dictionary?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 795.2,
+            "end": 796.4,
+            "text": " Dictionary is,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 796.4,
+            "end": 799.5,
+            "text": " Collection of key value pairs."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 799.5,
+            "end": 800.1999999999999,
+            "text": " Now,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 800.1999999999999,
+            "end": 801.6999999999999,
+            "text": " Abandon means,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 801.6999999999999,
+            "end": 802.6999999999999,
+            "text": " Abandon is a key."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 802.6999999999999,
+            "end": 804.3,
+            "text": " It has a value."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 804.3,
+            "end": 806.4,
+            "text": " You want to see the meaning of food."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 806.4,
+            "end": 807.3,
+            "text": " Food is a key."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 807.3,
+            "end": 809.3,
+            "text": " It has a value."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 809.3,
+            "end": 810.0,
+            "text": " Food is,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 810.0,
+            "end": 811.1999999999999,
+            "text": " Everyone knows."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 811.1999999999999,
+            "end": 811.9,
+            "text": " Now,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 811.9,
+            "end": 812.8,
+            "text": " Another thing,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 812.8,
+            "end": 814.4,
+            "text": " You want to see,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 814.4,
+            "end": 815.9,
+            "text": " I am not getting it in a complex award."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 815.9,
+            "end": 817.0,
+            "text": " You want to see mutable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 817.0,
+            "end": 817.9,
+            "text": " Mutable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 817.9,
+            "end": 819.3,
+            "text": " It has a value."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 819.3,
+            "end": 819.6,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 819.6,
+            "end": 820.5,
+            "text": " Mutable means,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 820.5,
+            "end": 821.4,
+            "text": " Dictionary is written."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 821.4,
+            "end": 822.6999999999999,
+            "text": " Key value pairs."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 822.6999999999999,
+            "end": 823.5,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 823.5,
+            "end": 825.8,
+            "text": " As a key value pairs,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 825.8,
+            "end": 827.0999999999999,
+            "text": " I can store anything."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 827.0999999999999,
+            "end": 827.5,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 827.5,
+            "end": 829.3,
+            "text": " As a key value pairs,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 829.3,
+            "end": 830.9,
+            "text": " I can store this too."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 830.9,
+            "end": 831.6999999999999,
+            "text": " Which,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 831.6999999999999,
+            "end": 832.1999999999999,
+            "text": " Which,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 832.1999999999999,
+            "end": 833.1999999999999,
+            "text": " How many marks are there?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 833.1999999999999,
+            "end": 834.5999999999999,
+            "text": " The name of the child,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 834.5999999999999,
+            "end": 836.1999999999999,
+            "text": " How many marks are there?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 836.1999999999999,
+            "end": 836.9,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 836.9,
+            "end": 839.0999999999999,
+            "text": " All this information can be stored."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 839.0999999999999,
+            "end": 840.9,
+            "text": " In which I want to tell you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 840.9,
+            "end": 842.3,
+            "text": " Now, you all come here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 842.3,
+            "end": 843.6999999999999,
+            "text": " And here you all see,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 843.6999999999999,
+            "end": 844.0999999999999,
+            "text": " I have written,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 844.0999999999999,
+            "end": 845.1999999999999,
+            "text": " Dict is equal to name,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 845.1999999999999,
+            "end": 846.3,
+            "text": " Sakshi, age 20,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 846.3,
+            "end": 847.5999999999999,
+            "text": " Can vote true."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 847.5999999999999,
+            "end": 848.6999999999999,
+            "text": " See how it is printed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 848.6999999999999,
+            "end": 849.8,
+            "text": " Let me show you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 849.8,
+            "end": 851.0,
+            "text": " Name Sakshi,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 851.0,
+            "end": 851.6999999999999,
+            "text": " Age 20,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 851.6999999999999,
+            "end": 852.3,
+            "text": " Can vote true."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 852.3,
+            "end": 855.0,
+            "text": " I will tell more about dictionary in the coming videos."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 855.0,
+            "end": 856.4,
+            "text": " For now, you all understand that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 856.4,
+            "end": 857.9,
+            "text": " Dictionary is mapped data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 857.9,
+            "end": 859.8,
+            "text": " That one thing is mapped to another thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 859.8,
+            "end": 860.7,
+            "text": " Like name Sakshi,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 860.7,
+            "end": 862.3,
+            "text": " How many marks are there?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 862.3,
+            "end": 864.5,
+            "text": " Can vote or not?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 864.5,
+            "end": 865.6,
+            "text": " And,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 865.6,
+            "end": 867.7,
+            "text": " Is there a good girl or not?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 867.7,
+            "end": 869.3,
+            "text": " How is she in school?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 869.3,
+            "end": 870.3,
+            "text": " And,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 870.3,
+            "end": 872.0,
+            "text": " How many marks are there?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 872.0,
+            "end": 874.3,
+            "text": " What is her behavior?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 874.3,
+            "end": 875.8,
+            "text": " Discipline,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 875.8,
+            "end": 877.3,
+            "text": " Is there a discipline or not?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 877.3,
+            "end": 877.6,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 877.6,
+            "end": 878.5,
+            "text": " I am understanding you all."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 878.5,
+            "end": 879.5,
+            "text": " That's all there is."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 879.5,
+            "end": 881.1,
+            "text": " All these things have to be put in here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 881.1,
+            "end": 882.5,
+            "text": " And,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 882.5,
+            "end": 883.3,
+            "text": " Dictionary will be made."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 883.3,
+            "end": 884.3,
+            "text": " So,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 884.3,
+            "end": 885.3,
+            "text": " Dictionary is a total list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 885.3,
+            "end": 887.3,
+            "text": " I hope you understand."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 887.3,
+            "end": 889.3,
+            "text": " Now, I would like to say one thing here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 889.3,
+            "end": 890.3,
+            "text": " Which is,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 890.3,
+            "end": 891.3,
+            "text": " Maybe,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 891.3,
+            "end": 893.3,
+            "text": " All your mind will be covered."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 893.3,
+            "end": 895.3,
+            "text": " You will be covered by your mind."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 895.3,
+            "end": 895.8,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 895.8,
+            "end": 897.3,
+            "text": " Maybe, you will not be."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 897.3,
+            "end": 897.8,
+            "text": " Maybe, you will not be."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 897.8,
+            "end": 898.3,
+            "text": " But,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 898.3,
+            "end": 899.8,
+            "text": " You will think about it one way."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 899.8,
+            "end": 903.3,
+            "text": " Everything in Python is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 903.3,
+            "end": 905.3,
+            "text": " Everything. Yes."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 905.3,
+            "end": 906.8,
+            "text": " Dictionary is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 906.8,
+            "end": 908.3,
+            "text": " If you make a dictionary,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 908.3,
+            "end": 909.3,
+            "text": " It is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 909.3,
+            "end": 911.3,
+            "text": " If you make a bullion,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 911.3,
+            "end": 912.3,
+            "text": " It is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 912.3,
+            "end": 913.3,
+            "text": " It is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 913.3,
+            "end": 914.3,
+            "text": " It is an object of an integer class."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 914.3,
+            "end": 915.3,
+            "text": " That is why,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 915.3,
+            "end": 916.3,
+            "text": " You can see here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 916.3,
+            "end": 917.3,
+            "text": " When we printed it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 917.3,
+            "end": 919.3,
+            "text": " We saw that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 919.3,
+            "end": 921.3,
+            "text": " Look at this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 921.3,
+            "end": 922.3,
+            "text": " Here,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 922.3,
+            "end": 923.3,
+            "text": " Type of A is"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 923.3,
+            "end": 924.3,
+            "text": " Class complex."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 924.3,
+            "end": 925.3,
+            "text": " Class bull."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 925.3,
+            "end": 926.3,
+            "text": " So, why is it written in the class?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 926.3,
+            "end": 928.3,
+            "text": " It is an object of a class."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 928.3,
+            "end": 928.8,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 928.8,
+            "end": 929.3,
+            "text": " Now, you will say,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 929.3,
+            "end": 931.3,
+            "text": " What is this class?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 931.3,
+            "end": 933.3,
+            "text": " What is this class object?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 933.3,
+            "end": 935.3,
+            "text": " I will tell you everything in the coming videos."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 935.3,
+            "end": 937.3,
+            "text": " When we reach in Object-oriented programming,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 937.3,
+            "end": 938.3,
+            "text": " I will tell you everything."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 938.3,
+            "end": 940.3,
+            "text": " Now, remember this thing for me."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 940.3,
+            "end": 942.3,
+            "text": " Everything is an object in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 942.3,
+            "end": 943.3,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 943.3,
+            "end": 944.3,
+            "text": " Remember this thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 944.3,
+            "end": 946.3,
+            "text": " And if you remember this thing,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 946.3,
+            "end": 948.3,
+            "text": " I will remind you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 948.3,
+            "end": 950.3,
+            "text": " But for now, forget this thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 950.3,
+            "end": 951.3,
+            "text": " It doesn't mean anything."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 951.3,
+            "end": 953.3,
+            "text": " I have not said anything to you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 953.3,
+            "end": 955.3,
+            "text": " But when we will do the video of Classes and Objects,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 955.3,
+            "end": 957.3,
+            "text": " You should remember that,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 957.3,
+            "end": 959.3,
+            "text": " I had said that everything is an object in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 959.3,
+            "end": 961.3,
+            "text": " I will explain this thing there."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 961.3,
+            "end": 963.3,
+            "text": " For now, grasp the concept of the updated types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 963.3,
+            "end": 965.3,
+            "text": " There are different types of data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 965.3,
+            "end": 967.3,
+            "text": " You read it very well."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 967.3,
+            "end": 968.3,
+            "text": " Okay."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 968.3,
+            "end": 970.3,
+            "text": " That's all for this video."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 970.3,
+            "end": 971.3,
+            "text": " I hope you enjoyed it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 971.3,
+            "end": 973.3,
+            "text": " If you haven't accessed the playlist yet,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 973.3,
+            "end": 975.3,
+            "text": " Then access it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 975.3,
+            "end": 977.3,
+            "text": " Click here and bookmark it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 977.3,
+            "end": 978.3,
+            "text": " I have done it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 978.3,
+            "end": 979.3,
+            "text": " Click here and save it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 979.3,
+            "end": 981.3,
+            "text": " That's all for now."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 981.3,
+            "end": 983.3,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 983.3,
+            "end": 986.3,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 998.3,
+            "end": 1000.3,
+            "text": " Bye."
+        }
+    ],
+    "text": " You are in day 6, I wanted to do this by 100 days of code. Today I will tell you what variables are. Variables are like a container. Like you have containers in your kitchen, with lentils, rice, etc. Variables are like that too. This analogy is perfect in Python programming language. If I have a container and it is in the container, I will put it in the container. So I changed the content of this container. On the other hand, if I take another container and put water in it, I can change the content of milk. In Python, it is the same that you make containers and store them. Data is stored in memory. The RAM is stored in it. What is the data type? Like a container can be liquid, solid, dal, sugar, etc. Food is not like that too. Like we have a lot of things, like a cleaning liquid. Food is not like that. So there are different types of food. Like this, there are different types of food in Python. Data types are different. Let's go to the computer screen and see what are the different types of food. And how do we do it? Let's get started. What is the variable? Let's understand this first. The variable is like a container. As I already told you. But how is this container? This container is in memory. If you are confused with all these things, then you come here and say, What am I doing here? In the main dot py. And you will come to know exactly how to make a variable in Python. And why is it necessary to make a variable in Python? If I write a is equal to one here, I just need to do this much and print it. So basically I am saying that in memory, in my computer's RAM, store one in the actual memory. And give that address to one in the store. Now it will look a little complex to listen to. But when I write a is equal to one, I will use a whenever I want to refer the value of it. I will print it. If you say a is equal to one, then I remember that I should not print one directly. Why should I run this program? How about this? If I do this, then you made a program to save a number. A number is saved here and it is being printed. So a is equal to a, a is stored in a and by printing, it is printed. Can I do something like this? b is equal to Harry. The answer is yes, I can do it. But if I run it, I will get the number print token. And if I print b, then you will see that I will get this Harry print token. Which is great, which is great. Because this is a different data type, this is a different data type. Now you will say that when you wrote one, two, three, four, four, four in Harry, then you did not write the double quotes. But when Harry wrote it, why didn't you write it like this? Because it is not written like this, because there will be an error. Now why will there be an error? You may have written it directly, I could have written Harry. But we have to write double quotes because of this. Sometimes we represent a string data type. So that if you have ever done this, it is possible that someone has said this, that Harry is equal to nine. Now someone says b is equal to Harry. Now how will he know that you want to print Harry string or you want to print nine. If I run this program, then I will get nine print tokens. You see, here it will be nine print. So it is possible that you literally want to print Harry, but if you print nine, that is why there are some rules in Python. I will delete it right now. b is equal to double quote. I will write it directly. Whatever will be in double quotes, it will be printed as you can see here. Now what I have written here for you people, I will tell you. So see what is variable? Variable is like a container that holds data. A container that holds data. Very similar to how our containers in kitchen hold sugar. Like in your kitchen, salt, sugar, salt, all these things. It is used as a box to hold all these things. Okay. The rating of variable is just like the rating of placeholder in memory assigning it some value. And here I have shown you the four types of variables. I have declared you all. Now these are the four different types of variables. That is, their type is different. For example, suppose you are a jeep. Okay. A doggy is also a jeep. Okay. A kitty is also a jeep. But we are all three different types of jeeps. Okay. Similarly, A is equal to one of a different variable. B is equal to true of a different variable. C is equal to Harry's different variable. D is equal to none of a different variable. Okay. You are watching this video on one X. Now here A is equal to one. If I do it, then the integer in A is stored. B is equal to true. So B is a Boolean store. C is equal to Harry's string. And D is equal to none type. The name of D is equal to none. So the variable of none type is one. Which is formed here. Okay. So there are four different types of data types. What is data type? And why do we need data type? Now see, why do we need data type? I have told you here. That we need data type. So that we can store different types of values in memory. Okay. This is known. Data type specifies the type of value which can hold a variable. This is required in programming to perform operations. Suppose, if I write here, print A plus B. Okay. So will it add Harry in it? Now see, there will be a error here. It says, one is your integer. The other is your string. How will you connect? I mean, what do you want? If I reduce the number a little, how will Harry connect in the number of 1003? I mean, what do you want? I mean, what are you saying? You have made a plan. Python is saying that, what is it? What? Okay. And we are saying from Python, we want to concatenate actually. So Python says, what is it? You want to concatenate. You are putting a plus. I mean, how will I know that you don't want to concatenate? You want to do something else. Okay. So that's why we do what here? When we do A plus B, then two types of data types should be there. Then we can do it. So I will do the work. I will make a variable with the name A1. I will write 9. If I write A plus A1, then this operation will be performed correctly. And here you see, it will be written 132. Okay. So this thing was very simple. You will know. But we need data types. So that we can do various operations without causing an error. Without causing an error. In Python, we can print the type of operator using type function. And we have a variable. And I want to know what its type is. So I can know like this. I can say the type of A is and here I can write by using comma. Type of A. Okay. So I have made this bracket type of A. And I have made this bracket of print of this opening parenthesis. If I run it, then you see. The type of A is class int. So A is an integer. Let's see if we can do this with B. Or not. I will run it. And here you see type of B is class str. And I will do the same thing here. Type of C is. And here you see what is the type of C? There is nothing C. What type will it be? I will see A1. Or I will do one thing. I will make C. Why don't I make C? Why don't I make these four variables directly? Okay. So the whole string is in ABCD. I have four of them. If I run it now, then type of C is written. A1 is not defined. What is this? Oh. I have written print A plus A1. It's okay. I will define A1 too. Because I have to give this program to you. You have to give it to me. So here you see it is equal to 1. 1, 2, 10. Type of A is n. Type of B is bull. Type of C is string. Okay. These three types have printed. So come on, it's very good. I understood the story here. Now let me tell you some built-in data types in Python. The first built-in data type is the number. Which I have told you. Okay. Int float complex. If this A is equal to 1.1, you saw that type of A was showing integer. If I make it 1.1, then this type of A will show float. And if I write something like this. I write this 8 plus 2i. So this is a complex number. Actually, I have to do something like this to make this complex number. I will do 8 comma 2. And as soon as I do this, it will become a complex number. And you can see here that the complex number of 8 plus 2j is formed. Okay. If you don't know about complex numbers, that's totally fine. I don't expect you to know complex numbers. But I just want to tell you that you can also make complex numbers in Python. These are basically real part and imaginary part numbers. If you have increased complex numbers in class 12, good for you. If you haven't increased your class 11, 12th, complex number, 11th, but there are different boards of different labors. So someone's 12th and someone's 11th. Okay. Anyways, class complex is showing here. I just wanted to show you that this is a complex number. So here you see I can write integer type. It can be a floating board number. It can be a complex type. And if we talk about string, then hello word double code is enclosed. Hello word double code is enclosed. Python programming is all string. Okay. Then after this, if I talk about Boolean data, then this can be true or false. Now why do we want to use this? Suppose you write a function and you want to return it that you can drive or not. So if you don't know what the function is, then I'll tell you. Suppose you want to tell me that you can drive or not. So you can give me just a small information. Yes or no? These Booleans work in the same way. You don't need to directly say that yes, I can drive. You don't need to give so much information. Yes or no? Yes means true or false. Like in string, there are a lot of information. H is H, A, R, R, Y, etc. There can be a lot of characters. But you can also tell me that you can drive or not. You can say yes or no. And you should be good. So this is the Boolean data type. Okay. We will see when we will use it and when we will see it in the coming time. Then there is a sequence data. Okay. I will talk about list and tuple here. And we don't have to get too complex in list and tuple. I just want to tell you that list and tuple also exist. List is an ordered collection of data types. And we will read it ahead. So I won't tell you here. Okay. If you want to know about list, Be patient. Be patient. I will tell you about list. Okay. What is list? So list basically is collection of different data elements. Which can be of different data types. Like integer, float, You put list in a list, You put another list. So list basically is list of items. Which can be of different data types. I will tell you this much. I won't tell you in front of this. Okay. And we can change this list. What is tuple? Exactly the same thing. I am telling you in very simple language. Exactly the same thing. Except that it is immutable. Immutable means, It can't be changed. Okay. Now this immutable, immutable people confuse a lot. Like many people say this to me. I am telling you from my experience. Many people say to me that, Brother, we can't remember that Can we change mutable or immutable? We have a problem. Okay. I will tell you how to remember. Suppose you have mutable. You must have studied mutation. Mutation means, There are changes. Like a theory is said in that. Human's tail used to be done first. And then after that, Mutations are done. And the human's tail is gone from that mutation. Okay. It is said like this. Okay. Now I am not teaching you biology. I am just telling you. But what is mutation? Change. Okay. I am saying this. If you have studied genetic algorithm, If you have studied a little biology, In class 10th, In class 9th, Come on, It must have been a little big. Mutation means changes. Like, First, There was a monkey. Then a human became. Okay. It is a mutation. So, Mutable means, Change can be done. Immutable means, Can't be changed. So, You can remember like this. This is a way of remembering. It may be that you remember. You all are listening to me. Come on, bro. I remember. I was telling you that, Those who don't remember. Okay. Now look here. I made a list. List the collection of items. Double is the same. Collection of items. Except the fact that, You can't change it. If you change it, Double will give you an error. Now, How will we change it? What is it? We will keep all this for the video of double. I won't tell you now. Then another data type is, Map data. Dictionary. What is this? Dictionary is not in your house? No. No problem. You must know what is a dictionary? Dictionary is, Collection of key value pairs. Now, Abandon means, Abandon is a key. It has a value. You want to see the meaning of food. Food is a key. It has a value. Food is, Everyone knows. Now, Another thing, You want to see, I am not getting it in a complex award. You want to see mutable. Mutable. It has a value. Okay. Mutable means, Dictionary is written. Key value pairs. Okay. As a key value pairs, I can store anything. Okay. As a key value pairs, I can store this too. Which, Which, How many marks are there? The name of the child, How many marks are there? Okay. All this information can be stored. In which I want to tell you. Now, you all come here. And here you all see, I have written, Dict is equal to name, Sakshi, age 20, Can vote true. See how it is printed. Let me show you. Name Sakshi, Age 20, Can vote true. I will tell more about dictionary in the coming videos. For now, you all understand that, Dictionary is mapped data. That one thing is mapped to another thing. Like name Sakshi, How many marks are there? Can vote or not? And, Is there a good girl or not? How is she in school? And, How many marks are there? What is her behavior? Discipline, Is there a discipline or not? Okay. I am understanding you all. That's all there is. All these things have to be put in here. And, Dictionary will be made. So, Dictionary is a total list. I hope you understand. Now, I would like to say one thing here. Which is, Maybe, All your mind will be covered. You will be covered by your mind. Okay. Maybe, you will not be. Maybe, you will not be. But, You will think about it one way. Everything in Python is an object. Everything. Yes. Dictionary is an object. If you make a dictionary, It is an object. If you make a bullion, It is an object. It is an object. It is an object of an integer class. That is why, You can see here. When we printed it, We saw that, Look at this. Here, Type of A is Class complex. Class bull. So, why is it written in the class? It is an object of a class. Okay. Now, you will say, What is this class? What is this class object? I will tell you everything in the coming videos. When we reach in Object-oriented programming, I will tell you everything. Now, remember this thing for me. Everything is an object in Python. Okay. Remember this thing. And if you remember this thing, I will remind you. But for now, forget this thing. It doesn't mean anything. I have not said anything to you. But when we will do the video of Classes and Objects, You should remember that, I had said that everything is an object in Python. I will explain this thing there. For now, grasp the concept of the updated types. There are different types of data types. You read it very well. Okay. That's all for this video. I hope you enjoyed it. If you haven't accessed the playlist yet, Then access it. Click here and bookmark it. I have done it. Click here and save it. That's all for now. Thank you so much for watching this video. And I will see you next time. Bye."
+}
